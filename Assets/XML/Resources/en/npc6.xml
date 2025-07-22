@@ -1,0 +1,80 @@
+<npc>
+
+    <inicio_dialogo name= "Elisa">
+
+        <textos>
+            <txt>How... How did you find me here?</txt>
+            <txt>I could have sworn the autobots would have made it impossible to get here.</txt>
+            <txt>If you think it will be easy to get the sixth and final requirement, you're sorely mistaken.</txt>
+        </textos>
+
+    </inicio_dialogo>
+ 
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>...</txt>
+            <txt>I just want to get back to my world, I still have so much to do... you're an analyst, right?</txt>
+            <txt>You know how it is... I can't be late with my analyses.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Elisa">
+
+        <textos>
+            <txt>Then you better hurry, because even if you collect all the requirements, the challenge won't be over.</txt>
+            <txt>You will still have to battle Megatron, the boss of this factory.</txt>
+            <txt>I'm not one to give advice, but be careful, for I know his questions are as deadly as his mechanical arms.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Oh, just what I needed...</txt>
+            <txt>Deadly???... well, I better strike first before getting hit by one of those.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Elisa">
+
+        <textos>
+            <txt>Hmm, feeling confident, are you? We'll see...</txt>
+            <txt>But now your test is with me.</txt>
+            <txt>Prepare yourself and answer!!!</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name= "Elisa">
+
+        <textos>
+            <txt>Considering that all the laboratories listed below are accredited under NBR ISO/IEC 17025. Which alternative represents a NON-conformity based on the mentioned management system?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>A soil analysis laboratory has established a calibration program with a frequency determined by procedure.</txt>
+            <txt>A laboratory that conducts field analyses transports its equipment in bubble wrap, following the knowledge of someone experienced in transportation.</txt>
+            <txt>The AsdXy laboratory performs intermediate verifications in addition to calibrations. Calibrations take place every two years or when a need is identified.</txt>
+            <txt>A laboratory has recently had one of its activities accredited and only declares compliance with the standard for that activity.</txt>
+            <txt>The AsdXy laboratory ensures continuous improvement of the activities within its management system.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name= "Elisa">
+
+        <textos>
+            <txt>Interesting, very interesting.</txt>
+            <txt>Now you know what to do.</txt>
+            <txt>Find all the scrolls if you haven't already!</txt>
+            <txt>The path to your final challenge will only open after that.</txt>
+            <txt>Now leave me, before others find my hiding place.</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

@@ -1,0 +1,62 @@
+<npc>
+
+    <inicio_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Parado aí, e prepare-se</txt>
+            <txt>O assunto é sério e você deve considerar muito antes de sair respondendo o que os seus miolos pensaram</txt>
+            <txt>Não vá achando que é moleza, consulte a norma ou caia na tristeza</txt>
+            <txt>HAHAHAHA</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>O que, de graça? que papel mais grosso</txt>
+            <txt>Aparentemente não tenho escolha, tenho?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Requisito">
+
+        <textos>
+            <txt>PAPEL ? PAPEL ???</txt>
+            <txt>Como ousa...</txt>
+            <txt>Não reconhece um requisito quando de frente para um? há muito a te ensinar</txt>
+            <txt>Agora é que eu não vou facilitar... se prepare</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+
+    <pergunta_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma NÃO conformidade com base no sistema de gestão citado?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Um laboratório acreditado na ISO/IEC 17025 possui um sistema de controle ambiental que documenta os requisitos necessários para realizar suas atividades</txt>
+            <txt>O laboratório AsdXy monitora, controla e registra as condições ambientais, e por possuir poucas pessoas atuando, não possuem necessidade em controlar o acesso às áreas que afetam suas atividades</txt>
+            <txt>A cada 3 meses o laboratório AsdXy realiza uma análise crítica das medidas de controle ambiental implementadas, de acordo com seus procedimentos</txt>
+            <txt>Um laboratório acreditado implementou medidas para prevenir contaminação e interferências adversas em suas atividades, preparando-se para integrar novas atividades de análises</txt>
+            <txt>Um laboratório assegura que as instalações utilizadas para atividades de laboratório não afetam adversamente a validade dos resultados</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name= "Requisito">
+
+        <textos>
+            <txt>hmmm...</txt>
+            <txt>Uma sábia decisão! Ou será que não??</txt>
+            <txt>Só o tempo dirá...</txt>
+            <txt>Continue sua jornada, desbrave os mistérios da qualidade, e enfrente o Calibratron para chegar mais próxima de voltar para casa...</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

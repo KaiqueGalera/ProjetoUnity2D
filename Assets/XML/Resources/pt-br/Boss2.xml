@@ -1,0 +1,29 @@
+<npc>
+    <pergunta_dialogo name= "Megatron">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma NÃO conformidade com base no sistema de gestão citado</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Um laboratório utiliza equipamentos que foram colocados a sobrecarga, sempre fazendo verificações para checar se os resultados são válidos</txt>
+            <txt>O laboratório AsdXy utilizando equipamentos fora de seu controle permanente, sem garantir que esses equipamentos atendam aos requisitos normativos</txt>
+            <txt>O laboratório AsdXy mantém registros detalhados de todos os equipamentos, incluindo evidências de verificação de conformidade, localização atual, datas de calibrações e resultados de calibrações</txt>
+            <txt>O laboratório AsdXy assegura que apenas equipamentos que atendem aos requisitos especificados e que estejam sob controle adequado sejam utilizados em atividades que afetam a validade dos resultados</txt>
+            <txt>Um laboratório realiza periodicamente a manutenção preventiva dos equipamentos críticos, conforme procedimento documentado, e registra cada intervenção técnica realizada</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>Hmpf... mais um golpe de sorte</txt>
+            <txt>Mas não se engane. A norma é extensa, e poucos sobrevivem à seção 6 inteira sem tropeçar</txt>
+            <txt>Você realmente acha que controle de equipamento é suficiente para me derrubar?</txt>
+            <txt>Pois bem, vamos ver se consegue manter esse desempenho</txt>
+            <txt>Hora de avançar para o próximo desafio!</txt>
+        </textos>
+
+    </fim_dialogo>
+</npc>

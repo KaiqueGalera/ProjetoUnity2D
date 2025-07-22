@@ -1,0 +1,58 @@
+<npc>
+
+    <inicio_dialogo name="Elisa">
+
+        <textos>
+            <txt>You made it this far? Impressive… not many master the art of catalyzed jumps</txt>
+            <txt>These blue potions… never underestimate the power of a good reagent</txt>
+            <txt>Now that you've mastered the chemistry of jumping, are you ready for your final test</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Those clouds nearly knocked me down, but the potions helped a lot</txt>
+            <txt>I just want to get back to the lab… I still have samples to analyze</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Elisa">
+
+        <textos>
+            <txt>Ah, the duty of a good analyst never ends, even up here</txt>
+            <txt>But beware: not everything that seems stable truly is like certain clouds… or poorly archived records</txt>
+            <txt>Let's get to the point Conformity is in the air… or maybe not</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Elisa">
+
+        <textos>
+            <txt>All the laboratories below are accredited under ISO/IEC 17025 Indicate which alternative represents a NON-conformity based on the mentioned management system</txt>
+        </textos>
+
+        <alternativas>
+            <txt>The AsdXy analysis lab keeps all technical records up to date, ensuring traceability of results and allowing repeat measurements whenever needed</txt>
+            <txt>A laboratory sends its test reports via email without checking whether the client has access to outdated or incorrect versions of the document</txt>
+            <txt>The AsdXy lab maintains documented procedures for reporting results clearly, including the associated measurement uncertainties</txt>
+            <txt>A laboratory controls all management system documents electronically, with access levels defined by role and revision history available</txt>
+            <txt>The AsdXy lab keeps the management system documentation available for consultation by all technical staff involved in lab activities</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Elisa">
+
+        <textos>
+            <txt>Good choice Chemical and normative balance is essential</txt>
+            <txt>The final requirement is now yours record well, archive better</txt>
+            <txt>May your decisions be as firm as the most stable cloud</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

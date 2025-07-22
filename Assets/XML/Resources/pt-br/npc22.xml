@@ -1,0 +1,69 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Você de novo?</txt>
+            <txt>Pensou que passearia tranquilamente pelas nuvens?</txt>
+            <txt>Aqui os céus só são calmos para quem controla seus documentos...</txt>
+            <txt>Prepare-se para tempestades se vier com informalidades</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Uau, que acolhedor...</txt>
+            <txt>Você sempre ameaça antes de dizer olá?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Acolhimento? Aqui trabalhamos com RIGOR!</txt>
+            <txt>Relatar resultados, manter registros técnicos, controlar documentos...</txt>
+            <txt>Essa é a verdadeira arte de flutuar nesse mundo</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Ok, já entendi que tudo aqui é extremamente... normativo</txt>
+            <txt>Então vai, manda o desafio da vez</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Qual das alternativas abaixo representa uma NÃO conformidade com os princípios da documentação do sistema de gestão?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Um laboratório documenta suas atividades e retém registros técnicos como evidência da conformidade com a norma</txt>
+            <txt>O laboratório substitui seus procedimentos documentados por instruções verbais transmitidas por técnicos experientes, visando otimizar o tempo</txt>
+            <txt>Documentos controlados do laboratório são revisados, atualizados e aprovados antes de serem distribuídos</txt>
+            <txt>As alterações nos documentos são identificadas e rastreadas para garantir a validade e a confiabilidade da informação</txt>
+            <txt>Os registros são armazenados de forma a garantir sua proteção e fácil recuperação quando necessário</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>Interessante... talvez você esteja começando a entender a essência da conformidade</txt>
+            <txt>Ou talvez apenas tenha sorte</txt>
+            <txt>De qualquer forma, siga em frente</txt>
+            <txt>O nevoeiro se dissipa apenas para quem respeita cada requisito da norma...</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

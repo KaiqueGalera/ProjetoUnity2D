@@ -1,0 +1,4100 @@
+fileFormatVersion: 2
+guid: 0affb4826b96c744d9cd94248cd941e7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: papper_v1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a36de9deaacf5144adf2a024bd98e9c
+      internalID: -959865696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ee14bf23890e3458f56b0bdba63476
+      internalID: 1845532725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f13e5f4b8fbc24db68683fbea8f198
+      internalID: -834205752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f499da4a09100c6498f031a9eead8264
+      internalID: -501203192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e1bc4040cdab24786e241a0616cf20
+      internalID: 952388324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d475f665446d11447bfc2a9678303cf8
+      internalID: 1206203105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e611e6166458b7442bde164f83bfc30c
+      internalID: -1435907454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a810eb9e21542f748b00ce6aa89b546a
+      internalID: -1770826046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eab247812fd8bf49917886c3ae6bfb6
+      internalID: -1106719704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7460df60fa88e4841b9348a27a257560
+      internalID: -387394634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c871bd0ad39c01545b5e3751a24baa6f
+      internalID: -773905262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 453
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf86e5fe09e20499bb35832436f3aa
+      internalID: -1069441918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d8f8dd7d2cc8345b1eaf58d3fb7dcd
+      internalID: 1707254543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6094fdf035f01234faeb91153cca89b6
+      internalID: 2044075165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a981799eba4f6f04baaeac7f78853aa7
+      internalID: -1563459535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6117d54a4a675647ad8993a4049211b
+      internalID: 977768654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577ddd74a181ac349bbe602724f2d4da
+      internalID: 876219420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1b8bac9f5f67f45865f697694eb80e
+      internalID: 145168741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e00717062ffa340b3237b4a5d9b0f0
+      internalID: -1907112914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390377f9cf22bd54ba94c5ff8566fc67
+      internalID: -1955545332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab983ebd0db2f248b509228dc152c78
+      internalID: -425265223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b29db43d658299459f605008cdddff3
+      internalID: 1715959964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fe35e7c8d7ec14aafe7ddd7d004e58
+      internalID: -1385950268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d36f402f5a951c4e803ecc94e0a4f38
+      internalID: -1496997383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63b20efd5923e547821ee93a423b882
+      internalID: 1620778285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9bae8168b0d414bba0d3cffbe61a5e
+      internalID: 559942376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aefdee382c33df4f9022ebe2c72a625
+      internalID: -139792737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c777a0cdba4153c42bc05917aef552b7
+      internalID: 1590287007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7654246b83d839e4d8a34f62e3f9b98f
+      internalID: -1299889508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f6ffa820bcfbf438a9d6b8d951f63e
+      internalID: 434844701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b6588f1c314944b6b05e685129d95
+      internalID: -2139925923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638d9b8f125ba2e4190714243fb22de0
+      internalID: 1953862889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841ee87a2ba6f4b43a5ca3be05979c03
+      internalID: 1458685421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae482735df0d2a4197ebb59df6657c3
+      internalID: 1108678251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d189e5539040248adfe4f9e9d2bc73
+      internalID: 2007936081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9672bcac79c6494aa95b7b6d93a721c
+      internalID: -768225166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5e6910d73849f4abef19fdd95ad874
+      internalID: 1834086065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9a9e6df7f5ddd4c88bd07c31e0811a
+      internalID: -1003841327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333379dc50f1e764a8d24a2c930d8fc8
+      internalID: 1246219737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72485be21db36ff4cb87994536fb7dc7
+      internalID: -1055736859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deefaf8105399c4ba2117bc0154e68d
+      internalID: 805257893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c1f0ce7fafb141bc57c8af7e711bd
+      internalID: 1040800428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dda972c12bb8d41872cfc94eee7e09
+      internalID: 1233881316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9e664e00f9a384e9b3adcfa51c099d
+      internalID: 1347098693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3877c5b2a758c9458326d860a2d17a2
+      internalID: -1809985871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2eec0c5f44e3b4bbdc3792382c88e3
+      internalID: -1066054503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa22d6bcc6f955a429e2789fde900b83
+      internalID: 383085296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6f9ccff98a3c4080cc92593d63d7e
+      internalID: 1398553901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c393306aef2fa5d45886b035a4c74319
+      internalID: 208566345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e8a9e3525444c4f8081ce46afc7e01
+      internalID: 1808708341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885d8b0c92d5c7d4b849a0f1fbe39c3e
+      internalID: 172542641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745b33774250e744dbea8863914c9c1b
+      internalID: 1795345071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549fe4a18024c9d49bb11f7ed810c90d
+      internalID: -141610927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ea38d010832c4da2f98936c4484ec
+      internalID: -1175159170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ea24fef38562d40acf3264d57b59a4
+      internalID: -48849896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec43be18de43f540864f0137fb7d8f6
+      internalID: -1933882486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e9e8b1ef0dc834f900b3ab92573bec
+      internalID: 496237735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5496fc2618d7dd74084bc0cd484d085c
+      internalID: 1305918340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_58
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d5c213162a3e74e83773e38d64218b
+      internalID: 2138977568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_59
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507c779db8c194148b831be6781cbb44
+      internalID: 1988992181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1785ad48990e41e4a8dcbf794ee4e5b4
+      internalID: 695521954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a343effc3bf6b0428e1f457d849cdbe
+      internalID: -90870542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be91239b5a9b60448f47b57f7f98844
+      internalID: 923905978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08b919309ec24e44ab8a2d95d6f6b78
+      internalID: -811259635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_64
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b420d270e15414686b34a092339972
+      internalID: 604947256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf319b12aa8ef274fbf1923225a2252b
+      internalID: -696419697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8053cfd8fd10d204bae4389eb1bdc362
+      internalID: -1172458757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_67
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff06eb81f43e514fa197fd44c14a8bb
+      internalID: 898367610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_68
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da269075b4eb57a48812bf681550ae2a
+      internalID: -1068297925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_69
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec93322fada42f47a9365892543d4a7
+      internalID: -2094534973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_70
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcca662437125a4448d990ba241d9c77
+      internalID: 1048614172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_71
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 297
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c1a468e7e2a2a46a54e67719a9fdeb
+      internalID: 146646336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f36aafc63022409231339aff66f6e
+      internalID: 1760735597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7396271e354054cb10be2b834d40ee
+      internalID: -2022581075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e51b9c3f0cbdad4cb1922a7988c8c14
+      internalID: 1159718879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf2871fe736584ba717bbfa361129c
+      internalID: -1877374752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a673f69e10b9b644a68e9bead0b8a60
+      internalID: 1596028660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_77
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5577b2e9778161a4ea6a7578401646bc
+      internalID: 688025540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_78
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e64ba0b3c38d74dbf6196acf03f142
+      internalID: 231144979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_79
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afe75837b5b70498ca6b6e21d41c86
+      internalID: -760525212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_80
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330e883e021eb3a4da2aa123d984467c
+      internalID: 2124280115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81cadbcdf07bd146aca4c69755407a6
+      internalID: -2074289022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_82
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bda2324348e68a4495aa4b1d5ae04ee
+      internalID: 411165969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_83
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 265
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3920d49b34ca7ed41abc29228a824960
+      internalID: -1530074647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e13efb41008c64497bc98b888aa39d
+      internalID: -1223408373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_85
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b227c53a8d8cad4995a0f10c339ff37
+      internalID: 1752123612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_86
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ffe97f2cd5094f83574083d10834f
+      internalID: -1295291441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_87
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d134e39bd9cf84da3a1e9b718e1b83
+      internalID: -1501978035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_88
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42426c551c41724bbcf9d21c3adb465
+      internalID: -1011208272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_89
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a518d47b8e00a4b96f746a0722a5cb
+      internalID: 1499367361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_90
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e97cc220339b24f83b6b1a53bdf90e
+      internalID: 1419787351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_91
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ce6893a3b75184c81cc45c699b85c3
+      internalID: -447750555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_92
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fc2d4c8d973a04faaec53df193609f
+      internalID: -1158910641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_93
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4a2ea5885a2bd4d9f5488d626d74fe
+      internalID: 2038837071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_94
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdb505859ab5fa4da17efbfc8660a2c
+      internalID: -2018201295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_95
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 230
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e6cf8609be1c4bb798e2eb4fadf82
+      internalID: 1720587534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3eee5a413448848956d78ebb8c5460
+      internalID: 1053667862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_97
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4826801d67dc1468d3966ee669c820
+      internalID: 424658825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_98
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2a802419a152341b762ec445949441
+      internalID: -970410354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_99
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b51d2fc5d168247b25d034a67f1f2d
+      internalID: -1360476790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_100
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de3bdddb0251b5489ca81644bca3aa6
+      internalID: -1148031060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_101
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203425a985d98bb4f98c938be8667acf
+      internalID: 714797071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_102
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baede2f643df2984ab5b91e8b52e6a19
+      internalID: -1907193606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_103
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fda5dd7084319b4caa1312d4dda7036
+      internalID: -630999405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_104
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54ff22a87e2bd41b24f2d7aeff6610
+      internalID: 1094739071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_105
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a754d27711bf444a8082dd3726efced
+      internalID: -639231442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_106
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3676de2f39714cd4c9fc1cc8c050a86e
+      internalID: 790799796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_107
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3012e5a71e48fd144a6238ede0bf44c5
+      internalID: 1766538028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cce5e6e12a94b46927cd0f194dd170
+      internalID: -981819088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_109
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0303249d5f48b945aac6443a9ac7965
+      internalID: -433935907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_110
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cae30c9ee198544a580fdeec8c9b92
+      internalID: 1643085585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_111
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a94dc704376df942aac25b40db4619b
+      internalID: 509961707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_112
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f529a111975147a33c99275f5b059
+      internalID: 1553787358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_113
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dd31f29eb9f3b429ae6929490a8f1c
+      internalID: -1267706205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_114
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d78382cac18e43be1eaed234b98ee
+      internalID: 2139867543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_115
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60fe3f55376a164d8dfe7bcdf74340d
+      internalID: -1356143506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_116
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de83798bb049a6948b46b15705dbc96b
+      internalID: -621414934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_117
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6a6de9044f33243842af9ad14d5597
+      internalID: -1378471860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_118
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d893769704b6a2408a49a4b08118c86
+      internalID: 1514671436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_119
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53020ed851c30384fa7287d884e16831
+      internalID: 383573751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b010ddc044f724aae70d421ad45b63
+      internalID: 1684249780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_121
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e8e35f36f37784291ab8dc1e4a843f
+      internalID: 1277884561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_122
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caec1aa16bad4246bc74b6f1c575497
+      internalID: 896836340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_123
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b750bb84b6cf49b9e88f2130c2b27
+      internalID: -431158993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_124
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ad0afc4468424cb7a6059ab53b778
+      internalID: -1814636322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_125
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddd1625009aa4f4886d3b6370f0d207
+      internalID: 1318876980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_126
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cc44522814d514f90ad7b6d3463b4e
+      internalID: -702827811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_127
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8e7429bc7e7640aca293a8f2323de
+      internalID: 143033918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_128
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cbd3c9a8c5387469ff9e39bf5025b8
+      internalID: -540977308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_129
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b0b20cb44df834e9e53662122035db
+      internalID: -1216398634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_130
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f796977e80d1e0c47973a03fc3f37611
+      internalID: 152274356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_131
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f016c563944e84484a5920e35286fb
+      internalID: -121756043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_132
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa359b088535b4e82a9856ceeb101e
+      internalID: 2018504569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_133
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5191090f65a564f84a72c034522687
+      internalID: -1926229724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_134
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89470d956881f7641a9ae0c106e9c7a8
+      internalID: 1762547003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_135
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b786b0fa64e709e4a93b47b6d10e0a3c
+      internalID: 730619182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_136
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce127fb3fec8b4468c32ec25f591879
+      internalID: 539721419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_137
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1399da53b3bae4383c91a905126561
+      internalID: -1346127498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_138
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d1648e5bce78b419547b3b0b94c2fd
+      internalID: 2039619000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_139
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efb3a7231c4ea141b4c4aa599478855
+      internalID: 47140047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_140
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ebfcaa60325d9458d0aa3772341cfa
+      internalID: 949390775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_141
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f79cd20ba541f4da33b54e986c39fa
+      internalID: -1260669552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_142
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3041fd629327f9499aa7361a08052a7
+      internalID: 671677337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_143
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f4208529d383949a01f73f89bd8314
+      internalID: -145944355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf87e160de4d444799c776604f4321b
+      internalID: 2029823655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_145
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a9006b96ac8f0428bafd657b5df719
+      internalID: 172096323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_146
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db958fad88dbed4dab8adfe4f482773
+      internalID: 951126604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_147
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb11020944ddc439ec7c31f0646bf1
+      internalID: 752676132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_148
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae844d9fa186d448861a3007b38295
+      internalID: 730513296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_149
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615fa31d90653684c82efaf6c09ec39a
+      internalID: 1653515127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_150
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb20cad978e4a948ad50635f1f326de
+      internalID: -32093817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_151
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee414daec1180a44918edcbf92c6df4
+      internalID: 1261159959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_152
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b01d7cb4866c94386668baec6c4766
+      internalID: -689783600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_153
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b6b817280862498c54e23bbe8e072
+      internalID: -1592084812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_154
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17431a83f0da4146a6add2e0a28ced2
+      internalID: 1389657035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_155
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 69
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a352f070756ac4690209cd1c561262
+      internalID: 1964365425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_156
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db530bd5d088b24d8ac6b89ed9df391
+      internalID: -217712828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_157
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d6a9bfc46baf4bab8ead46de8bc16
+      internalID: 2035086346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_158
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12742fc160127b24b9a6e13c4a4d467f
+      internalID: -1481619712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_159
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a6aa9607ca564c8b39d24bf743209
+      internalID: -1884738756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_160
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb363c3eadceb459f9cf5f330c504f
+      internalID: -2018893527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_161
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ad08dc9e486b74c84ac13b9069a88b
+      internalID: -623224832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_162
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00743a615ea93234cb550efbc0fe58b0
+      internalID: 1737538421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_163
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1ff9fcc71565d4e90ceb50dd01e7be
+      internalID: -1965274765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_164
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140416636f4df4a46b9e6fa02145eb9e
+      internalID: 1100277159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_165
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d54870817e76b641a5c3885258ad89e
+      internalID: 235220610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_166
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9bf4ca141c73847a9005ec93adbbe1
+      internalID: -1788956624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_167
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b1485e221d57643874a0fc9ea7be50
+      internalID: -1941280130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_168
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb906321e2c12340bcdf70c216d754e
+      internalID: 749469884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_169
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57df1e1cd8b4104ea4245973b67a5ab
+      internalID: -1506657077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_170
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d62711cb5fbcd644a3a19b1b99ee5ce
+      internalID: 791370078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_171
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b796af029a480449addb4bf75485f3
+      internalID: 1400974483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_172
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ce55e997957b64a93392530ca9953a
+      internalID: 2101791444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_173
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39d63438dcc2b64291f7e71922eb494
+      internalID: 1756645372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_174
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e837fd480dc314eb0bd6bffa9ecc32
+      internalID: 1150368979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_175
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a562e4571f83f4147b37d93ebd4fddc5
+      internalID: -1096601685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_176
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a14c96e7fabe94aace9d7c40f71f2a
+      internalID: -1155639045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_177
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5230eaf8e27610243bb6d3965f61015e
+      internalID: 111142533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_178
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4145983ae519d9419d744a1862aa13a
+      internalID: -2055179816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papper_v1_179
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 5
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1567b2d67a83f6148bbccfe33afe0a93
+      internalID: -702157215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      papper_v1_0: -959865696
+      papper_v1_1: 1845532725
+      papper_v1_10: -773905262
+      papper_v1_100: -1148031060
+      papper_v1_101: 714797071
+      papper_v1_102: -1907193606
+      papper_v1_103: -630999405
+      papper_v1_104: 1094739071
+      papper_v1_105: -639231442
+      papper_v1_106: 790799796
+      papper_v1_107: 1766538028
+      papper_v1_108: -981819088
+      papper_v1_109: -433935907
+      papper_v1_11: -1069441918
+      papper_v1_110: 1643085585
+      papper_v1_111: 509961707
+      papper_v1_112: 1553787358
+      papper_v1_113: -1267706205
+      papper_v1_114: 2139867543
+      papper_v1_115: -1356143506
+      papper_v1_116: -621414934
+      papper_v1_117: -1378471860
+      papper_v1_118: 1514671436
+      papper_v1_119: 383573751
+      papper_v1_12: 1707254543
+      papper_v1_120: 1684249780
+      papper_v1_121: 1277884561
+      papper_v1_122: 896836340
+      papper_v1_123: -431158993
+      papper_v1_124: -1814636322
+      papper_v1_125: 1318876980
+      papper_v1_126: -702827811
+      papper_v1_127: 143033918
+      papper_v1_128: -540977308
+      papper_v1_129: -1216398634
+      papper_v1_13: 2044075165
+      papper_v1_130: 152274356
+      papper_v1_131: -121756043
+      papper_v1_132: 2018504569
+      papper_v1_133: -1926229724
+      papper_v1_134: 1762547003
+      papper_v1_135: 730619182
+      papper_v1_136: 539721419
+      papper_v1_137: -1346127498
+      papper_v1_138: 2039619000
+      papper_v1_139: 47140047
+      papper_v1_14: -1563459535
+      papper_v1_140: 949390775
+      papper_v1_141: -1260669552
+      papper_v1_142: 671677337
+      papper_v1_143: -145944355
+      papper_v1_144: 2029823655
+      papper_v1_145: 172096323
+      papper_v1_146: 951126604
+      papper_v1_147: 752676132
+      papper_v1_148: 730513296
+      papper_v1_149: 1653515127
+      papper_v1_15: 977768654
+      papper_v1_150: -32093817
+      papper_v1_151: 1261159959
+      papper_v1_152: -689783600
+      papper_v1_153: -1592084812
+      papper_v1_154: 1389657035
+      papper_v1_155: 1964365425
+      papper_v1_156: -217712828
+      papper_v1_157: 2035086346
+      papper_v1_158: -1481619712
+      papper_v1_159: -1884738756
+      papper_v1_16: 876219420
+      papper_v1_160: -2018893527
+      papper_v1_161: -623224832
+      papper_v1_162: 1737538421
+      papper_v1_163: -1965274765
+      papper_v1_164: 1100277159
+      papper_v1_165: 235220610
+      papper_v1_166: -1788956624
+      papper_v1_167: -1941280130
+      papper_v1_168: 749469884
+      papper_v1_169: -1506657077
+      papper_v1_17: 145168741
+      papper_v1_170: 791370078
+      papper_v1_171: 1400974483
+      papper_v1_172: 2101791444
+      papper_v1_173: 1756645372
+      papper_v1_174: 1150368979
+      papper_v1_175: -1096601685
+      papper_v1_176: -1155639045
+      papper_v1_177: 111142533
+      papper_v1_178: -2055179816
+      papper_v1_179: -702157215
+      papper_v1_18: -1907112914
+      papper_v1_19: -1955545332
+      papper_v1_2: -834205752
+      papper_v1_20: -425265223
+      papper_v1_21: 1715959964
+      papper_v1_22: -1385950268
+      papper_v1_23: -1496997383
+      papper_v1_24: 1620778285
+      papper_v1_25: 559942376
+      papper_v1_26: -139792737
+      papper_v1_27: 1590287007
+      papper_v1_28: -1299889508
+      papper_v1_29: 434844701
+      papper_v1_3: -501203192
+      papper_v1_30: -2139925923
+      papper_v1_31: 1953862889
+      papper_v1_32: 1458685421
+      papper_v1_33: 1108678251
+      papper_v1_34: 2007936081
+      papper_v1_35: -768225166
+      papper_v1_36: 1834086065
+      papper_v1_37: -1003841327
+      papper_v1_38: 1246219737
+      papper_v1_39: -1055736859
+      papper_v1_4: 952388324
+      papper_v1_40: 805257893
+      papper_v1_41: 1040800428
+      papper_v1_42: 1233881316
+      papper_v1_43: 1347098693
+      papper_v1_44: -1809985871
+      papper_v1_45: -1066054503
+      papper_v1_46: 383085296
+      papper_v1_47: 1398553901
+      papper_v1_48: 208566345
+      papper_v1_49: 1808708341
+      papper_v1_5: 1206203105
+      papper_v1_50: 172542641
+      papper_v1_51: 1795345071
+      papper_v1_52: -141610927
+      papper_v1_53: -1175159170
+      papper_v1_54: -48849896
+      papper_v1_55: -1933882486
+      papper_v1_56: 496237735
+      papper_v1_57: 1305918340
+      papper_v1_58: 2138977568
+      papper_v1_59: 1988992181
+      papper_v1_6: -1435907454
+      papper_v1_60: 695521954
+      papper_v1_61: -90870542
+      papper_v1_62: 923905978
+      papper_v1_63: -811259635
+      papper_v1_64: 604947256
+      papper_v1_65: -696419697
+      papper_v1_66: -1172458757
+      papper_v1_67: 898367610
+      papper_v1_68: -1068297925
+      papper_v1_69: -2094534973
+      papper_v1_7: -1770826046
+      papper_v1_70: 1048614172
+      papper_v1_71: 146646336
+      papper_v1_72: 1760735597
+      papper_v1_73: -2022581075
+      papper_v1_74: 1159718879
+      papper_v1_75: -1877374752
+      papper_v1_76: 1596028660
+      papper_v1_77: 688025540
+      papper_v1_78: 231144979
+      papper_v1_79: -760525212
+      papper_v1_8: -1106719704
+      papper_v1_80: 2124280115
+      papper_v1_81: -2074289022
+      papper_v1_82: 411165969
+      papper_v1_83: -1530074647
+      papper_v1_84: -1223408373
+      papper_v1_85: 1752123612
+      papper_v1_86: -1295291441
+      papper_v1_87: -1501978035
+      papper_v1_88: -1011208272
+      papper_v1_89: 1499367361
+      papper_v1_9: -387394634
+      papper_v1_90: 1419787351
+      papper_v1_91: -447750555
+      papper_v1_92: -1158910641
+      papper_v1_93: 2038837071
+      papper_v1_94: -2018201295
+      papper_v1_95: 1720587534
+      papper_v1_96: 1053667862
+      papper_v1_97: 424658825
+      papper_v1_98: -970410354
+      papper_v1_99: -1360476790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

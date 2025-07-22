@@ -1,0 +1,80 @@
+<npc>
+
+    <inicio_dialogo name= "Elisa">
+
+        <textos>
+            <txt>Como...Como me encontrou aqui?</txt>
+            <txt>Podia jurar que estaria bem com os autobots atrapalhando o caminho até aqui</txt>
+            <txt>Se acha que vai ser fácil conseguir o sexto e último requesito você está muito enganado</txt>
+        </textos>
+
+    </inicio_dialogo>
+ 
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>...</txt>
+            <txt>Eu só quero voltar ao meu mundo, tenho muita coisa ainda pra fazer.. você é uma analista não é?</txt>
+            <txt>Você sabe como é.. não posso atrasar com as minhas análises</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Elisa">
+
+        <textos>
+            <txt>Então é melhor se apressar, pois mesmo que colete todos os requesitos, o desafio não estará completo</txt>
+            <txt>Você ainda deverá batalhar contra o Megatron o chefe dessa fábrica</txt>
+            <txt>Não sou de dar conselhos, mas cuidado pois sei que ele tem perguntas tão letais quanto seus braços mecânicos</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>aaa era só o que faltava</txt>
+            <txt>letal ??? ...bom, melhor que eu bata antes de levar um golpe desses</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Elisa">
+
+        <textos>
+            <txt>Hmmm está confiante?? veremos...</txt>
+            <txt>Mas agora o seu teste é comigo</txt>
+            <txt>Se prepare e responda!!!</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name= "Elisa">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma NÃO conformidade com base no sistema de gestão citado?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Um laboratório de análise de solo estabeleceu um programa de calibração com uma periódicidade determinada em procedimento</txt>
+            <txt>Um laboratório que faz análises em campo transporta os seus equipamentos com revestimento de plástico bolha, seguindo conhecimento de quem possui experiência em transporte</txt>
+            <txt>O laboratório AsdXy realiza verificações intermediárias além das calibrações. As cablibrações acontecem a cada dois anos, ou quando identificado a necessidade</txt>
+            <txt>Um laboratório teve uma de suas atividades recém acreditada, e somente segue declara conformidade com a norma para essa atividade</txt>
+            <txt>O laboratório AsdXy assegura uma melhoria continua das atividades de seu sistema de gestão</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name= "Elisa">
+
+        <textos>
+            <txt>Interessante, muito interessante</txt>
+            <txt>Agora você já sabe o que fazer</txt>
+            <txt>Encontre todos os pegarminhos caso não o tenha feito!</txt>
+            <txt>A passagem para o seu desafio final somente abrirá apos isso</txt>
+            <txt>Agora me deixe aqui, antes que outros achem o meu esconderijo</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

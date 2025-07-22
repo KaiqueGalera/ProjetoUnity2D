@@ -1,0 +1,88 @@
+<npc>
+
+    <inicio_dialogo name= "Requirement">
+
+        <textos>
+            <txt>Did you know, did you know?</txt>
+            <txt>Did you know that intermediate checks on equipment can help you better control them?</txt>
+            <txt>Did you know?</txt>
+            <txt>And also help extend the periods between regular calibrations, did you know?</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Hmm, interesting.</txt>
+            <txt>Another one of these, are you another rude fragment?</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name= "Requirement">
+
+        <textos>
+            <txt>Did you know, did you know?</txt>
+            <txt>Did you know that intermediate checks on equipment can help you better control them?</txt>
+            <txt>Did you know?</txt>
+            <txt>And also help extend the periods between regular calibrations, did you know?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Hmm, actually no.</txt>
+            <txt>Aren't you going to respond?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Requirement">
+
+        <textos>
+            <txt>You didn’t know?</txt>
+            <txt>Initiating questioning protocol x.33.2</txt>
+            <txt>Get reeaaddyyy</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Here we go again...</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name= "Requirement">
+
+        <textos>
+            <txt>Considering that all laboratories mentioned in the options are accredited under NBR ISO/IEC 17025, indicate the option that represents a NON-conformity based on the cited management system.</txt>
+        </textos>
+
+        <alternativas>
+            <txt>A newly accredited laboratory has defined and documented all activities covered by its system. However, activities outside the management system are not well defined.</txt>
+            <txt>A newly accredited laboratory has defined and documented all activities covered by its system. However, activities outside the management system are well defined.</txt>
+            <txt>Due to a client requirement, a laboratory conducted analyses at the client's facility. The client had all the necessary equipment but used standard procedures from their own site.</txt>
+            <txt>In the last 3 months, the chemical analysis laboratory has been undergoing changes in its management system structure, always ensuring the integrity of the system.</txt>
+            <txt>An analysis laboratory has a direct reporting channel to upper management, which is used, among other purposes, to keep them updated on the management system’s performance and needs.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name= "Requirement">
+
+        <textos>
+            <txt>Hmmm...</txt>
+            <txt>A wise decision! Or was it?</txt>
+            <txt>Only time will tell...</txt>
+            <txt>Continue your journey, uncover the mysteries of quality, and face Calibratron to get closer to returning home...</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

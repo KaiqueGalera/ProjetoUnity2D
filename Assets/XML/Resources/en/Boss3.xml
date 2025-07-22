@@ -1,0 +1,29 @@
+<npc>
+    <pergunta_dialogo name="Megatron">
+
+        <textos>
+            <txt>Considering that all laboratories listed in the options are accredited under NBR ISO/IEC 17025 Identify the option that represents a NON-conformity based on the referenced management system</txt>
+        </textos>
+
+        <alternativas>
+            <txt>An accredited laboratory ensures that laboratory activities conducted in external facilities meet the standard's requirements for facilities and environmental conditions</txt>
+            <txt>Laboratory AsdXy keeps records to maintain control of its activities, taking into account only the equipment standards and its procedures</txt>
+            <txt>An accredited laboratory monitors its environmental conditions and sets standards based on the comfort of the people present, without considering technical specifications of the equipment, methods, or relevant procedures</txt>
+            <txt>An accredited laboratory identifies, documents, and controls environmental factors that could influence the results, adjusting the environment according to the requirements of testing and calibration methods</txt>
+            <txt>Laboratory AsdXy continuously evaluates the facilities and environmental conditions to ensure they do not compromise the validity of the results, based on technical criteria and standard requirements</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>Impressive... but don't celebrate just yet</txt>
+            <txt>Not all equipment stays calibrated will you also lose alignment</txt>
+            <txt>The pressure rises and only those with true knowledge of conformity move forward</txt>
+            <txt>Let's see if you can stay steady like a freshly verified thermo-hygrometer</txt>
+            <txt>Next question... show what you're made of</txt>
+        </textos>
+
+    </fim_dialogo>
+</npc>

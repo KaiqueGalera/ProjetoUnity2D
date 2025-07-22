@@ -1,0 +1,78 @@
+<npc>
+
+    <inicio_dialogo name= "Bruno">
+
+        <textos>
+            <txt>Hello, noble adventurer.</txt>
+            <txt>I am Bruno, one of the analysts of this world.</txt>
+            <txt>You’ve advanced quite a lot to get here, but are you ready to receive the third fragment?</txt>
+            <txt>As for your dodging skills, I have no doubt they exist, since you’ve made it this far, hahaha!</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Phew, another human. With all these machines and strange floating papers, I was starting to lose it!</txt>
+            <txt>Pleasure to meet you, Bruno.</txt>
+            <txt>By any chance, do you know a shorter way for me to get back to Earth?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Bruno">
+
+        <textos>
+            <txt>Sorry, but in this world of quality, there’s only one way.</txt>
+            <txt>And to make it easier, it's important to be familiar with the standard and know how to use it.</txt>
+            <txt>Identify the non-conformity, find the related item in the standard, discover the root cause, and learn how to resolve it.</txt>
+            <txt>With practice, you’ll improve your insight and become one with the standard.</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Thanks for the tips...</txt>
+            <txt>(One with the standard... What a strange guy.)</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Bruno">
+
+        <textos>
+            <txt>No more stalling, here comes my question.</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <pergunta_dialogo name= "Bruno">
+
+        <textos>
+            <txt>Considering that all laboratories mentioned in the options are accredited under NBR ISO/IEC 17025, indicate the option that represents compliance with the cited management system?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>The AsdXy laboratory, newly accredited, does not implement measures to separate areas with incompatible laboratory activities, as it only has one room for analysis and performs only one type of analysis.</txt>
+            <txt>A laboratory conducted its activities in facilities outside its control, properly documenting the process and following its own procedures.</txt>
+            <txt>The AsdXy laboratory uses a technological system that monitors and records all environmental conditions, but temperature values are set only for the comfort of its staff.</txt>
+            <txt>As the AsdXy laboratory has an environmental control technology system, it does not need to record its values since they are always consistent.</txt>
+            <txt>A soil analysis laboratory performs its activities without considering microbiological contamination or other environmental factors, as everything is always kept clean.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name= "Bruno">
+
+        <textos>
+            <txt>I wish you the best of luck.</txt>
+            <txt>For now, I cannot reveal the answer… but you’ll know it when the time comes.</txt>
+            <txt>Farewell if you find your goal, and see you soon if you need to return.</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

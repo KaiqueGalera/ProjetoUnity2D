@@ -1,0 +1,77 @@
+<npc>
+
+    <inicio_dialogo name="Megatron">
+
+        <textos>
+            <txt>HA HA HA HA</txt>
+            <txt>You think you can stop me with a mere attack? You'll have to do more than that to defeat me</txt>
+            <txt>The real challenge begins now!!!</txt>
+        </textos>
+
+    </inicio_dialogo>
+ 
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>What? What do you mean?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Megatron">
+
+        <textos>
+            <txt>Your strikes will only have an effect if you succeed in my challenges</txt>
+            <txt>Only correct answers will hurt me</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Ugh, alright then...</txt>
+            <txt>Not like all this wasn't crazy enough already</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Megatron">
+
+        <textos>
+            <txt>ENOUGHHHH</txt>
+            <txt>Show more respect for the STANDARD!</txt>
+            <txt>Now here comes the first question</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Megatron">
+
+        <textos>
+            <txt>Considering that all laboratories listed in the options are accredited under NBR ISO/IEC 17025, identify the option that represents a NON-conformity based on the referenced management system</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Laboratory AsdXy ensures that measuring equipment is calibrated whenever the accuracy or measurement uncertainty affects the validity of reported results</txt>
+            <txt>Laboratory AsdXy performs intermediate checks on equipment as needed instead of calibrations</txt>
+            <txt>A laboratory has a documented procedure for handling and planned maintenance of equipment and uses labels or codes to indicate any damage or repair</txt>
+            <txt>The laboratory maintains records of calibrations performed, including results, dates, and the person responsible for the activity</txt>
+            <txt>Intermediate checks in a laboratory are used to monitor the ongoing performance of equipment between calibrations</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>A lucky strike... or maybe you actually read the manual</txt>
+            <txt>But don't get too excited maintaining compliance with installations and equipment is for the strong, not the fortunate</txt>
+            <txt>Do you really think that's enough to win?</txt>
+            <txt>Time to find out if you truly understand traceability or if you just memorized a few fancy terms</txt>
+            <txt>Get ready... I won't go easy on you next time</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

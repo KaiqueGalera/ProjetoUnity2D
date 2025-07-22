@@ -1,0 +1,54 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Bem-vinda ao deserto... aqui, o tempo é cruel com tudo que não for bem armazenado</txt>
+            <txt>Umidade? Zero. Calor? Máximo. Resultado? Amostra degradada se você vacilar</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Então esse calor todo é tipo um teste de estabilidade?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Perfeitamente dito. Armazenar é proteger. E aqui você precisa dominar esse requisito ou seus dados evaporam</txt>
+            <txt>Prepare-se. A areia fina guarda grandes armadilhas</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Qual das alternativas representa uma **não conformidade** com o item 7.4 da ISO/IEC 17025?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório mantém os itens de ensaio em armários com controle de temperatura e proteção contra luz solar direta.</txt>
+            <txt>As condições de armazenamento são registradas e monitoradas para preservar as características das amostras.</txt>
+            <txt>Itens de calibração e ensaio são armazenados temporariamente em uma área comum, com acesso livre a visitantes.</txt>
+            <txt>Procedimentos documentados definem o manuseio e o acondicionamento adequado dos itens recebidos.</txt>
+            <txt>O laboratório armazena as amostras em recipientes rotulados, com datas de validade e identificação clara.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>Nem tudo que é seco está morto. Mas uma amostra mal armazenada... essa sim, está perdida</txt>
+            <txt>Vamos ver como lida com o próximo ambiente... onde até o vidro derrete</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

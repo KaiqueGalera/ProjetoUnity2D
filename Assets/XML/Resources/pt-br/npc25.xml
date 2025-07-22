@@ -1,0 +1,85 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Estou cansado... ai como estou cansado...</txt>
+            <txt>Carrego há tanto tempo o peso dos registros mal feitos, dos relatórios imprecisos e dos documentos esquecidos...</txt>
+            <txt>Mas hoje, sinto uma brisa diferente... uma energia que paira nas nuvens...</txt>
+            <txt>Imagino que esteja bastante cansada também após todos esses desafios</txt>
+            <txt>Sente-se, descanse um pouco... ouvir também é parte do aprendizado</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Cansado... como pode um requisito estar cansado?</txt>
+            <txt>Apesar que... não é como se tudo estivesse normal por aqui</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Norma? Que honra... mas não sou tudo isso</txt>
+            <txt>Sou apenas um dos muitos pilares que sustentam a confiança</txt>
+            <txt>Parte de uma estrutura invisível que protege a verdade nos dados</txt>
+            <txt>Mas confesso... com tantos descuidos, às vezes sinto que estou desaparecendo...</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Desaparecendo?</txt>
+            <txt>Então é verdade que, se ignorarmos um requisito, todo o sistema pode ruir?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Sim... um relatório sem clareza... um documento não controlado... um registro sem rastreabilidade...</txt>
+            <txt>Tudo isso me enfraquece</txt>
+            <txt>Mas você pode mudar isso... com conhecimento, com prática... e com atenção aos detalhes</txt>
+            <txt>Chegou a hora de colocar isso à prova</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025, indique a alternativa que representa uma **NÃO conformidade** com base no sistema de gestão citado?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório AsdXy armazena seus registros técnicos em formato digital, com backup regular e acesso restrito às pessoas autorizadas.</txt>
+            <txt>Um laboratório não arquiva os registros técnicos das análises que foram reprocessadas, mantendo apenas os dados considerados válidos no relatório final.</txt>
+            <txt>Um laboratório inclui, em seus relatórios de resultados, as unidades de medida, o nome do responsável técnico e os métodos utilizados.</txt>
+            <txt>O laboratório AsdXy mantém uma versão única e controlada de cada documento aplicável ao sistema de gestão, incluindo procedimentos e formulários utilizados nas atividades laboratoriais.</txt>
+            <txt>O laboratório assegura que os documentos obsoletos sejam retirados de uso imediatamente e que versões válidas estejam disponíveis nos locais de utilização.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>hmmm...</txt>
+            <txt>Uma sábia decisão... ou talvez apenas o próximo passo necessário</txt>
+            <txt>De todo modo, vejo em você o brilho de quem busca compreender, não apenas cumprir</txt>
+            <txt>Agora siga... há ainda muito a explorar nas alturas do conhecimento</txt>
+            <txt>Leve consigo o valor da rastreabilidade, da clareza e da confiança</txt>
+            <txt>Nos encontraremos novamente... sempre que um documento for bem guardado ou um registro bem feito</txt>
+            <txt>Vá em paz, viajante da qualidade</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

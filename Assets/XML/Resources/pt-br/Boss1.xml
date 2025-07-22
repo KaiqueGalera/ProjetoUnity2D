@@ -1,0 +1,78 @@
+<npc>
+
+    <inicio_dialogo name= "Megatron">
+
+        <textos>
+            <txt>HA HA HA HA</txt>
+            <txt>Acha que pode me parar com um mero ataque? Terá que fazer mais que isso para conseguir me derrotar</txt>
+            <txt>O verdadeiro desafio começa agora!!!</txt>
+        </textos>
+
+    </inicio_dialogo>
+ 
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>o que? Como assim?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Megatron">
+
+        <textos>
+            <txt>Os seus golpes só surtiram efeito caso acerte meus desafios</txt>
+            <txt>Somente respostas certas irão me ferir</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>AAaaa, então tá</txt>
+            <txt>Não é como se tudo isso aqui já não estivesse doido o suficiente</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Megatron">
+
+        <textos>
+            <txt>ChegaaaAAA</txt>
+            <txt>Mais respeito com a NORMA</txt>
+            <txt>Agora aqui vai a primeira pergunta</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name= "Megatron">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma NÃO conformidade com base no sistema de gestão citado?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório AsdXy assegura que os equipamentos de medição são calibrados sempre que a exatidão ou a incerteza de medição afetar a validade dos resultados relatados</txt>
+            <txt>O laboratório AsdXy realiza checagens intermediárias dos equipamentos conforme necessário no lugar das calibrações</txt>
+            <txt>Um laboratório possui um procedimento documentado para o manuseio e manutenção planejada dos equipamentos, e utiliza de etiquetas ou códigos para indicar qualquer dano ou reparo</txt>
+            <txt>O laboratório mantém registros das calibrações realizadas, incluindo os resultados, a data e o responsável pela atividade</txt>
+            <txt>As checagens intermediárias de um laboratório são usadas para monitorar o desempenho contínuo dos equipamentos entre calibrações</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>Um golpe de sorte... ou talvez você tenha lido o manual</txt>
+            <txt>Mas não se anime demais manter conformidade com instalações e equipamentos é para os fortes, não para os afortunados</txt>
+            <txt>Você realmente acredita que isso é suficiente para vencer?</txt>
+            <txt>Está na hora de descobrir se entende de rastreabilidade ou se apenas decorou alguns termos bonitos</txt>
+            <txt>Prepare-se... não vou pegar leve nas próximas</txt>
+        </textos>
+
+    </fim_dialogo>
+
+
+</npc>

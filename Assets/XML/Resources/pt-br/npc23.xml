@@ -1,0 +1,81 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Você sabia, você sabia?</txt>
+            <txt>Que registros técnicos podem ser físicos ou digitais, mas precisam ser legíveis?</txt>
+            <txt>Você sabia?</txt>
+            <txt>Que até nas nuvens... a rastreabilidade é um requisito?</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>De novo com isso?</txt>
+            <txt>Tá, me diz logo qual parte da nuvem você representa...</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Sou o fragmento 8.2.33</txt>
+            <txt>Responsável por manter... o sistema íntegro</txt>
+            <txt>Você sabia?</txt>
+            <txt>Que documentos não controlados são risco iminente?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Uau, você é tipo um backup que tomou consciência?</txt>
+            <txt>Tá bem, me testa aí, protocolo ou sei lá o quê</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Iniciando protocolo de verificação NUVEM-7.8</txt>
+            <txt>Confirmação de confiabilidade...</txt>
+            <txt>Integridade dos registros...</txt>
+            <txt>Teste iniciado</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma NÃO conformidade com base no sistema de gestão e controle documental</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Um laboratório recém acreditado definiu e documentou todas as atividades que estão enquadradas no seu sistema. Contudo, atividades externas ao sistema de gestão estão bem definidas</txt>
+            <txt>Após revisar seus procedimentos de ensaio, o laboratório decide não registrar os resultados intermediários por considerá-los irrelevantes para o relatório final</txt>
+            <txt>Por exigência do cliente um laboratório realizou análises nas dependências do próprio cliente. O cliente possuía todo o aparato necessário, mas usou de procedimentos padrões da sua instalação</txt>
+            <txt>Nos últimos 3 meses, o laboratório de análises químicas está passando por mudanças na sua estrutura de sistema de gestão, sempre se preocupando com a integridade de seu sistema</txt>
+            <txt>Um laboratório de análises possuí um canal direto de reporte para alta gerência, que é utilizado para dentre outros fins mantê-la atualizada sobre o desempenho do sistema de gestão e suas necessidades</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>Resposta registrada...</txt>
+            <txt>Backup atualizado com seu progresso</txt>
+            <txt>Continue em frente, exploradora dos dados</txt>
+            <txt>O próximo byte pode ser o seu desafio final...</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

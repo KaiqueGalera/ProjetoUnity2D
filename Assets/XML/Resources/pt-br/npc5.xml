@@ -1,0 +1,59 @@
+<npc>
+
+    <inicio_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Estou cansado, ai como eu estou cansado</txt>
+            <txt>Já faz um bom tempo, quase não recordo a última vez que vi tamanha jovialidade</txt>
+            <txt>Imagino que esteja bastante cansada também após todos esses desafios</txt>
+            <txt>Sente-se, descanse um pouco</txt>
+        </textos>
+
+    </inicio_dialogo>
+ 
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Cansado, como pode uma norma estar cansada?</txt>
+            <txt>Apesar que... não é como se tudo estivesse normal</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Norma? que honra, mas sou apenas um requisito, faço parte de uma...</txt>
+            <txt>Toda essa conversa, estou ficando ainda mais cansado, vamos logo ao que interessa</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma NÃO conformidade com base no sistema de gestão citado?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório de análises AsdXy adota de processos documentados em papel para garantir que todos os seus serviços são realizados de acordo com políticas e procedimentos técnicos</txt>
+            <txt>Um laboratório pequeno por possuir pessoas específicas para cada atividade, não controla o acesso as áreas críticas, visto que cada funcionário tem seu local de trabalho</txt>
+            <txt>Um laboratório garante que as responsabilidades e autoridades para a gestão de riscos são claramente designadas</txt>
+            <txt>O laboratório AsdXy estabelece e mantém procedimentos para controlar todos os documentos que fazem parte de seu sistema de gestão, mas não considera nada que não faça parte</txt>
+            <txt>O laboratório AsdXy realiza auditorias internas uma vez ao ano para verificar a conformidade com o sistema de gestão e identificar áreas para melhoria</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name= "Requisito">
+
+        <textos>
+            <txt>hmmm...</txt>
+            <txt>Uma sábia decisão! Ou será que não??</txt>
+            <txt>Só o tempo dirá...</txt>
+            <txt>Continue sua jornada, desbrave os mistérios da qualidade, e enfrente o Calibratron para chegar mais próxima de voltar para casa...</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

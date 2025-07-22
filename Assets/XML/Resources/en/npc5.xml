@@ -1,0 +1,59 @@
+<npc>
+
+    <inicio_dialogo name= "Requisito">
+
+        <textos>
+            <txt>I'm so tired, oh how tired I am.</txt>
+            <txt>It's been a long time, I hardly remember the last time I saw such youthfulness.</txt>
+            <txt>I imagine you must be very tired too, after all these challenges.</txt>
+            <txt>Take a seat, rest a little.</txt>
+        </textos>
+
+    </inicio_dialogo>
+ 
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Tired? How can a requirement be tired?</txt>
+            <txt>Then again... it's not like anything is normal here.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Requirement? What a notion, I'm just a part of a...</txt>
+            <txt>All this talk, it's making me even more tired. Let's get straight to the point.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Considering that all the laboratories listed below are accredited under the NBR ISO/IEC 17025. Which alternative represents a NON-conformity based on the management system mentioned?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>The AsdXy analysis laboratory adopts documented paper processes to ensure that all its services are carried out according to policies and technical procedures.</txt>
+            <txt>A small laboratory, due to having specific people for each task, does not control access to critical areas, since each employee has their designated workplace.</txt>
+            <txt>A laboratory ensures that the responsibilities and authorities for risk management are clearly assigned.</txt>
+            <txt>The AsdXy laboratory establishes and maintains procedures to control all documents that are part of its management system, but does not consider anything outside of it.</txt>
+            <txt>The AsdXy laboratory conducts internal audits once a year to verify compliance with the management system and identify areas for improvement.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Hmm...</txt>
+            <txt>A wise choice! Or is it??</txt>
+            <txt>Only time will tell...</txt>
+            <txt>Continue your journey, uncover the mysteries of quality, and face Calibratron to get one step closer to returning home...</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

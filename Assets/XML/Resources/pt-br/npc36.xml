@@ -1,0 +1,55 @@
+<npc>
+
+    <inicio_dialogo name="Elisa">
+
+        <textos>
+            <txt>Calor extremo... ambiente inóspito... exatamente como um item vencido ou sem identificação</txt>
+            <txt>Eu sou Elisa. E aqui, apenas o que é controlado sobrevive</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Esse lugar parece um incinerador de más práticas laboratoriais...</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Elisa">
+
+        <textos>
+            <txt>Quase isso. Aqui se encerra o ciclo: itens deteriorados devem ser rejeitados, documentados e descartados de forma apropriada</txt>
+            <txt>Vamos ver se você sabe o que queima... e o que deve ser preservado</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Elisa">
+
+        <textos>
+            <txt>Indique a alternativa que representa uma **não conformidade** com os requisitos do item 7.4 da ISO/IEC 17025:</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Itens que não atendem aos critérios de aceitação definidos são rejeitados e adequadamente descartados pelo laboratório.</txt>
+            <txt>Itens são regularmente verificados para garantir que ainda estejam adequados ao uso pretendido.</txt>
+            <txt>Itens com sinais de deterioração são mantidos em uso enquanto não houver outra opção disponível.</txt>
+            <txt>O laboratório mantém registros sobre a disposição e o destino de itens descartados.</txt>
+            <txt>Todos os itens são identificados de forma clara durante todo o tempo em que estiverem sob responsabilidade do laboratório.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Elisa">
+
+        <textos>
+            <txt>Decisões difíceis moldam profissionais confiáveis</txt>
+            <txt>Agora você está pronta para encarar os registros mais quentes do sistema</txt>
+            <txt>Ou... para se derreter nas falhas de rastreabilidade</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

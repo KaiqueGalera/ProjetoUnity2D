@@ -1,0 +1,96 @@
+<npc>
+
+    <inicio_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Você sabia, você sabia?</txt>
+            <txt>Você sabia que verificações intermediárias em equipamentos pode ajudar a ter um controle melhor sobre eles</txt>
+            <txt>Você sabia?</txt>
+            <txt>e ainda ajudar a ter calibrações periódicas em periodos mais longos, você sabia?</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>hmm interessante</txt>
+            <txt>Outro desses, você é outro fragmento mal educado?</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Você sabia, você sabia?</txt>
+            <txt>Você sabia que verificações intermediárias em equipamentos pode ajudar a ter um controle melhor sobre eles</txt>
+            <txt>Você sabia?</txt>
+            <txt>e ainda ajudar a ter calibrações periódicas em periodos mais longos, você sabia?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>hmm na verdade não</txt>
+            <txt>não vai me responder?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Não sabia?</txt>
+            <txt>Iniciando protocolo de questionamento x.33.2</txt>
+            <txt>Se pre paaareee</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>e lá vamos nós</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Se prepare!</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <pergunta_dialogo name= "Requisito">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma NÃO conformidade com base no sistema de gestão citado</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Um laboratório recém acreditado definiu e documentou todas as atividades que estão enquadradas no seu sistema. Contudo, atividades externas ao sistema de gestão não estão bem definidas</txt>
+            <txt>Um laboratório recém acreditado definiu e documentou todas as atividades que estão enquadradas no seu sistema. Contudo, atividades externas ao sistema de gestão estão bem definidas</txt>
+            <txt>Por exigência do cliente um laboratório realizou análises nas dependências do próprio cliente. O cliente possuía todo o aparato necessário, mas usou de procedimentos padrões da sua instalação</txt>
+            <txt>Nos últimos 3 meses, o laboratório de análises químicas está passando por mudanças na sua estrutura de sistema de gestão, sempre se preocupando com a integridade de seu sistema</txt>
+            <txt>Um laboratório de análises possuí um canal direto de reporte para alta gerência, que é utilizado para dentre outros fins mantê-la atualizada sobre o desempenho do sistema de gestão e suas necessidades</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name= "Requisito">
+
+        <textos>
+            <txt>hmmm...</txt>
+            <txt>Uma sábia decisão! Ou será que não??</txt>
+            <txt>Só o tempo dirá...</txt>
+            <txt>Continue sua jornada, desbrave os mistérios da qualidade, e enfrente o Calibratron para chegar mais próxima de voltar para casa...</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

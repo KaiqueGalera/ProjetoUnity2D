@@ -1,0 +1,88 @@
+<npc>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Welcome to the Cloud World</txt>
+            <txt>It may look cute and ethereal, but here lies the most precious of treasures</txt>
+            <txt>The documents</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Documents? Up here</txt>
+            <txt>I was expecting rain, rainbows, maybe unicorns</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Ah, my dear, in the clouds we also store data, results, and evidence of competence</txt>
+            <txt>You are now in the sector where technical records and test reports rest</txt>
+            <txt>But be careful, a poorly versioned document can cause a storm of non-conformities</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Okay... let me get this straight</txt>
+            <txt>I'm literally walking on clouds, looking for technical records and facing paper monsters</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Almost that</txt>
+            <txt>You will face the Shadows of Filing, dodge whirlwinds of obsolete versions, and identify controlled documents</txt>
+            <txt>Oh, and before I forget... the **Blue Potions**</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>These potions contain a compound as light as helium and as powerful as hydrogen</txt>
+            <txt>When you drink one, your jump is boosted perfect for reaching distant clouds and unstable platforms</txt>
+            <txt>Without them, some documents will remain out of reach... like lost reports without backup</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Now that makes sense. Potions powered by chemistry... I like it</txt>
+            <txt>Time to apply my technical knowledge and rise to the skies</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Organize, control, record, and report... These are the four winds that will carry you to the next world</txt>
+            <txt>And if you see a Ghost Document, don't read it. It might be an unauthorized version</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <fim_dialogo name="Bruno">
+
+        <textos>
+            <txt>Before you go, keep this tip like a ray of sunlight: every document must be identified, updated, and properly made available</txt>
+            <txt>Now go, and shine light upon these clouds with the power of conformity</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

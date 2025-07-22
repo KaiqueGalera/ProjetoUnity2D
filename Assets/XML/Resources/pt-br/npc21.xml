@@ -1,0 +1,88 @@
+<npc>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Seja bem-vinda ao Mundo das Nuvens!</txt>
+            <txt>Pode parecer fofo e etéreo, mas aqui se guarda o mais precioso dos tesouros...</txt>
+            <txt>Os documentos!</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Documentos? Aqui em cima?</txt>
+            <txt>Eu esperava chuva, arco-íris, unicórnios talvez...</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Ah, minha cara, nas nuvens também se armazena dados, resultados e evidências de competência!</txt>
+            <txt>Você está agora no setor onde repousam os registros técnicos e os relatos de resultados</txt>
+            <txt>Mas cuidado, um documento mal versionado pode causar uma tempestade de não conformidades</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Ok... deixa eu ver se entendi...</txt>
+            <txt>Estou andando literalmente nas nuvens, procurando registros técnicos e enfrentando monstros de papel?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Quase isso!</txt>
+            <txt>Você enfrentará as Sombras do Arquivamento, desviará de redemoinhos de versões obsoletas e terá que identificar documentos controlados!</txt>
+            <txt>Ah, e antes que eu me esqueça... as **Poções Azuis**</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Essas poções contêm um composto leve como o hélio e potente como o hidrogênio!</txt>
+            <txt>Ao ingerir uma, seu salto é potencializado — perfeito para alcançar nuvens distantes e plataformas instáveis</txt>
+            <txt>Sem elas, alguns documentos permanecerão inalcançáveis... como relatórios perdidos sem backup</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Agora sim fez sentido. Poções turbinadas com química... gostei!</txt>
+            <txt>Hora de aplicar meus conhecimentos técnicos e subir às alturas!</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Organizar, controlar, registrar e relatar... São os quatro ventos que te levarão ao próximo mundo</txt>
+            <txt>E se ver um Documento Fantasma, não leia! Pode ser uma versão não autorizada</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <fim_dialogo name="Bruno">
+
+        <textos>
+            <txt>Antes de partir, guarde essa dica como um raio de sol: todo documento deve ser identificado, atualizado e disponibilizado apropriadamente</txt>
+            <txt>Agora vá, e ilumine essas nuvens com a luz da conformidade!</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

@@ -1,0 +1,55 @@
+<npc>
+
+    <inicio_dialogo name="Joel">
+
+        <textos>
+            <txt>Ah, as correntes marítimas… sempre transportando preciosidades</txt>
+            <txt>Mas e se a amostra for sensível à temperatura? E se o frasco quebrar no caminho?</txt>
+            <txt>No mundo do mar, tudo que é transportado precisa ser protegido</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Eu amarrei bem o pote com barbante. Isso conta como transporte seguro?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Joel">
+
+        <textos>
+            <txt>Se estiver documentado, validado e preservando a integridade da amostra... talvez!</txt>
+            <txt>Vamos testar seus conhecimentos antes que sua amostra vire isca de tubarão</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Joel">
+
+        <textos>
+            <txt>Indique a alternativa que representa uma **não conformidade** com o item 7.4 da ISO/IEC 17025 — manuseio de itens de ensaio e calibração:</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Um laboratório transporta itens de ensaio garantindo que sejam protegidos contra danos, contaminação ou deterioração.</txt>
+            <txt>O laboratório registra a condição de amostras recebidas e rejeita aquelas que chegam comprometidas, sem condições de ensaio.</txt>
+            <txt>Itens são manipulados e identificados de forma a preservar sua integridade, evitando confusão entre diferentes amostras.</txt>
+            <txt>O laboratório armazena itens de calibração diretamente ao lado de reagentes corrosivos, para facilitar o acesso dos técnicos.</txt>
+            <txt>Todos os itens são monitorados e armazenados conforme as condições recomendadas, incluindo temperatura e umidade, quando aplicável.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Joel">
+
+        <textos>
+            <txt>Lembre-se: um item mal transportado afunda a credibilidade do resultado</txt>
+            <txt>Navegue com cautela… o próximo ambiente é muito mais seco e traiçoeiro</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

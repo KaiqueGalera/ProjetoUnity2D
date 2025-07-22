@@ -1,0 +1,87 @@
+<npc>
+
+    <inicio_dialogo name= "Joel">
+
+        <textos>
+            <txt>Welcome, welcome!</txt>
+            <txt>You might be a little confused, at least that's what happens with interdimensional travelers.</txt>
+            <txt>But don't worry, we will be your guide on this journey.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Thanks, I guess.</txt>
+            <txt>To start with... who are you and what is this place?</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name= "Joel">
+
+        <textos>
+            <txt>I'm Joel.</txt>
+            <txt>And this is one of the worlds in the universe of quality, named the World of Equipment.</txt>
+            <txt>I'm not too sure, but maybe it's because of the terrible mechanoids scattered around here.</txt>
+            <txt>Or perhaps, because of the Calibratron, the calibrator of all calibrators.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Calibra-what?</txt>
+            <txt>I just want to go home.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Joel">
+
+        <textos>
+            <txt>Why didn't you say so earlier? That's easy!</txt>
+            <txt>To travel back to your dimension, you just need to...</txt>
+            <txt>Collect all the requirements of the standard, defeat all the levels and their deadly enemies, answer mind-boggling questions, and face the final boss, I mean, the caretaker.</txt>
+            <txt>Oh, and you'll only find the caretaker if you score high enough in each level; he's quite picky.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Yeah, sounds suuuuper easy.</txt>
+            <txt>Isn't there some kind of intergalactic bus or something?</txt>
+            <txt>Don't even bother answering...</txt>
+            <txt>Looks like I don't have much choice.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Joel">
+
+        <textos>
+            <txt>Yeah... I guess you don't have much choice.</txt>
+            <txt>But look on the bright side, at least you'll get to know our incredible universe...</txt>
+            <txt>We don't have many survivors... I mean visitors.</txt>
+            <txt>Enjoy the journey and try to challenge yourself...</txt>
+            <txt>Oh, as a final tip, I recommend carrying the NBR ISO/IEC 17025 standard with you; it's important to consult it in times of trouble.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <fim_dialogo name= "Joel">
+
+        <textos>
+            <txt>I think I forgot to mention, but in this universe, we don't repeat ourselves.</txt>
+            <txt>So pay attention to the dialogues!</txt>
+            <txt>But in case you missed it... complete all the worlds, answer the questions, and defeat the enemies controlling that world.</txt>
+            <txt>Good luck on your journey!</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

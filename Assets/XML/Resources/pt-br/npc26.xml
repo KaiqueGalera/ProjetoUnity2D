@@ -1,0 +1,58 @@
+<npc>
+
+    <inicio_dialogo name="Elisa">
+
+        <textos>
+            <txt>Você chegou até aqui? Impressionante… não são muitos que dominam a arte dos pulos catalisados</txt>
+            <txt>Essas poções azuis… não subestime o poder de um bom reagente</txt>
+            <txt>Agora que dominou a química do salto, está pronta para o seu último teste?</txt>
+        </textos>
+
+    </inicio_dialogo>
+ 
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Essas nuvens quase me derrubaram, mas as poções ajudaram bastante</txt>
+            <txt>Eu só quero voltar para o laboratório… ainda tenho amostras para analisar</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Elisa">
+
+        <textos>
+            <txt>Ah, o dever de um bom analista nunca cessa, mesmo nas alturas</txt>
+            <txt>Mas atenção: nem tudo que parece estável realmente está — como certas nuvens… ou registros mal arquivados</txt>
+            <txt>Vamos ao que interessa. A conformidade está no ar… ou não</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Elisa">
+
+        <textos>
+            <txt>Todos os laboratórios abaixo são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma NÃO conformidade com base no sistema de gestão citado:</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório de análises AsdXy mantém todos os registros técnicos atualizados, garantindo rastreabilidade dos resultados e permitindo a repetição das medições, sempre que necessário.</txt>
+            <txt>Um laboratório envia seus relatórios de ensaio por e-mail e não verifica se o cliente possui acesso a versões antigas ou incorretas do documento.</txt>
+            <txt>O laboratório AsdXy mantém procedimentos documentados para relatar os resultados com clareza, incluindo as incertezas associadas às medições.</txt>
+            <txt>Um laboratório controla eletronicamente todos os documentos do sistema de gestão, com níveis de acesso definidos por função e histórico de revisão disponível.</txt>
+            <txt>O laboratório AsdXy mantém a documentação do sistema de gestão disponível para consulta de toda a equipe técnica envolvida nas atividades laboratoriais.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Elisa">
+
+        <textos>
+            <txt>Boa escolha, equilíbrio químico e normativo é essencial</txt>
+            <txt>O último requisito agora é seu — registre bem, arquive melhor</txt>
+            <txt>Que suas decisões sejam tão firmes quanto a nuvem mais estável</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

@@ -1,0 +1,76 @@
+<npc>
+
+    <inicio_dialogo name="Joel">
+
+        <textos>
+            <txt>Vejo que notou os papéis flutuantes... não são só decoração, sabia?</txt>
+            <txt>Nesse laboratório aéreo, armazenamos tudo nas nuvens — literalmente e digitalmente</txt>
+            <txt>Cada fragmento flutuante aqui é parte de um documento, um registro ou um resultado técnico</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Uau... então é por isso que tudo parece tão caótico</txt>
+            <txt>Mas... como encontram o que precisam com tudo voando assim?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Joel">
+
+        <textos>
+            <txt>Ah, jovem Maria, aqui o caos tem método</txt>
+            <txt>Seguindo os requisitos da norma, temos um sistema de gestão documentado</txt>
+            <txt>Cada arquivo, cada resultado, cada revisão... tudo tem um propósito e um lugar</txt>
+            <txt>Controle, rastreabilidade e acesso — mesmo nas nuvens, nada pode se perder</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Então mesmo com as nuvens mudando o tempo todo, os dados continuam confiáveis?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Joel">
+
+        <textos>
+            <txt>Exatamente. O céu pode parecer incerto, mas nossos registros não</txt>
+            <txt>E falando nisso... está pronta para testar seus conhecimentos?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Joel">
+
+        <textos>
+            <txt>Considere os requisitos da NBR ISO/IEC 17025 sobre controle de documentos, relato de resultados e registros técnicos. Qual das alternativas representa uma não conformidade?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório WindLab mantém todos os registros técnicos de forma organizada, acessível e com rastreabilidade completa</txt>
+            <txt>O laboratório Nimbus atualiza seus procedimentos documentados sem manter registro de versões anteriores</txt>
+            <txt>O laboratório Cirrus revisa periodicamente seus documentos controlados, assegurando acesso apenas à versão vigente</txt>
+            <txt>O laboratório Stratus inclui nos seus relatórios todas as informações necessárias para interpretação dos resultados</txt>
+            <txt>O laboratório Altocumulus garante a segurança e a confidencialidade dos documentos eletrônicos armazenados em servidores protegidos</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Joel">
+
+        <textos>
+            <txt>Boas escolhas levam a bons voos</txt>
+            <txt>A resposta certa não será revelada agora, mas você sentirá quando acertar</txt>
+            <txt>Continue sua jornada, e que as nuvens guardem bem o que você aprendeu</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

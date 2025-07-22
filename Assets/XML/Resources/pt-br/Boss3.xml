@@ -1,0 +1,29 @@
+<npc>
+    <pergunta_dialogo name= "Megatron">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma NÃO conformidade com base no sistema de gestão citado?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Um laboratório acreditado  garante que as atividades de laboratório em instalações externas atendam aos requisitos de instalações e condições ambientais da norma</txt>
+            <txt>O laboratório AsdXy realiza registros para manter controle de suas atividades, levando em consideração apenas as norma dos equipamentos e seus procedimentos</txt>
+            <txt>Um laboratório acreditado  monitora as suas condições ambientais, e estabelecem padrões de acordo com o conforto das pessoas presentes, sem considerar especificações técnicas dos equipamentos, métodos ou procedimentos pertinentes</txt>
+            <txt>Um laboratório acreditado identifica, documenta e controla os fatores ambientais que possam influenciar os resultados, ajustando os ambientes conforme os requisitos dos métodos de ensaio e calibração</txt>
+            <txt>O laboratório AsdXy avalia continuamente as instalações e as condições ambientais para assegurar que não comprometam a validade dos resultados, com base em critérios técnicos e nos requisitos da norma</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>Impressionante... mas não comemore ainda</txt>
+            <txt>Nem todo equipamento permanece calibrado será que você também perderá o alinhamento?</txt>
+            <txt>A pressão aumenta, e só os verdadeiros conhecedores da conformidade seguem adiante</txt>
+            <txt>Vamos ver se você continua firme como um termohigrômetro recém-verificado</txt>
+            <txt>Próxima pergunta... mostre do que é feito</txt>
+        </textos>
+
+    </fim_dialogo>
+</npc>

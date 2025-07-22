@@ -1,0 +1,29 @@
+<npc>
+    <pergunta_dialogo name= "Megatron">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma NÃO conformidade com base no sistema de gestão citado?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório AsdXy permite que a autoridade e responsabilidade do pessoal técnico sejam modificadas sem a necessidade de documentação formal</txt>
+            <txt>Um laboratório acreditado assegura que todas as atividades de laboratório realizadas em locais fora das instalações permanentes atendam aos requisitos normativos e dos clientes</txt>
+            <txt>Um laboratório estabelece procedimentos documentados para assegurar a aplicação consistente de suas atividades</txt>
+            <txt>O laboratório AsdXy assegura que todas as responsabilidades, autoridades e interações entre as funções que afetam a qualidade dos resultados sejam documentadas e comunicadas</txt>
+            <txt>Um laboratório acreditado realiza revisões periódicas da documentação do sistema de gestão para garantir que ela permaneça adequada e eficaz para suas atividades</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>Eu subestimei você, mas guardei o melhor para o final</txt>
+            <txt>Poucos chegaram até aqui, e até os mais astutos conseguiram responder essa última provação</txt>
+            <txt>Não serei motivo de chacota dos outros guariões... não posso facilitar para você</txt>
+            <txt>ATENÇÃO, e reposnda ao último desafio</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

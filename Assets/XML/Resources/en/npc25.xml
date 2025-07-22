@@ -1,0 +1,85 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>I'm tired... oh how tired I am</txt>
+            <txt>I've carried for so long the weight of poorly made records, imprecise reports, and forgotten documents</txt>
+            <txt>But today, I feel a different breeze... an energy hanging in the clouds</txt>
+            <txt>I imagine you must be quite tired too after all these challenges</txt>
+            <txt>Sit down, rest a bit... listening is also part of learning</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Tired... how can a requirement be tired</txt>
+            <txt>Although... it’s not like everything here is normal</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Standard? What an honor... but I'm not all that</txt>
+            <txt>I'm just one of the many pillars that uphold trust</txt>
+            <txt>Part of an invisible structure that protects the truth in data</txt>
+            <txt>But I confess... with so many oversights, sometimes I feel like I'm fading away</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Fading away</txt>
+            <txt>So it’s true that if we ignore one requirement, the whole system can collapse</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Yes... a report without clarity... an uncontrolled document... a record without traceability</txt>
+            <txt>All of this weakens me</txt>
+            <txt>But you can change that... with knowledge, with practice... and attention to detail</txt>
+            <txt>It’s time to put this to the test</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Considering that all laboratories in the alternatives are accredited under ISO/IEC 17025, indicate which alternative represents a NON-conformity based on the mentioned management system</txt>
+        </textos>
+
+        <alternativas>
+            <txt>The AsdXy laboratory stores its technical records digitally, with regular backups and restricted access to authorized personnel</txt>
+            <txt>A laboratory does not archive the technical records of reprocessed analyses, keeping only the data considered valid in the final report</txt>
+            <txt>A laboratory includes in its result reports the measurement units, the name of the responsible technician, and the methods used</txt>
+            <txt>The AsdXy laboratory maintains a single controlled version of each document applicable to the management system, including procedures and forms used in laboratory activities</txt>
+            <txt>The laboratory ensures obsolete documents are immediately withdrawn from use and valid versions are available where needed</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>hmmm</txt>
+            <txt>A wise decision... or perhaps just the next necessary step</txt>
+            <txt>Either way, I see in you the spark of one who seeks to understand, not just comply</txt>
+            <txt>Now go... there is still much to explore in the heights of knowledge</txt>
+            <txt>Carry with you the value of traceability, clarity, and trust</txt>
+            <txt>We shall meet again... whenever a document is well kept or a record well made</txt>
+            <txt>Go in peace, traveler of quality</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

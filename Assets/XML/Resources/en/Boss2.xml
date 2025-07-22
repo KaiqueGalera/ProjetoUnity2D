@@ -1,0 +1,29 @@
+<npc>
+    <pergunta_dialogo name="Megatron">
+
+        <textos>
+            <txt>Considering that all laboratories listed in the options are accredited under NBR ISO/IEC 17025 Identify the option that represents a NON-conformity based on the referenced management system</txt>
+        </textos>
+
+        <alternativas>
+            <txt>A laboratory uses equipment that has been overloaded, always performing checks to verify if the results are valid</txt>
+            <txt>Laboratory AsdXy uses equipment outside its permanent control without ensuring that this equipment meets the standard requirements</txt>
+            <txt>Laboratory AsdXy keeps detailed records of all equipment, including evidence of conformity checks, current location, calibration dates, and calibration results</txt>
+            <txt>Laboratory AsdXy ensures that only equipment meeting specified requirements and under proper control is used in activities affecting the validity of results</txt>
+            <txt>A laboratory periodically performs preventive maintenance on critical equipment according to a documented procedure and records every technical intervention performed</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>Hmpf... another lucky strike</txt>
+            <txt>But don't be fooled The standard is extensive, and few survive all of section 6 without stumbling</txt>
+            <txt>Do you really think equipment control is enough to take me down</txt>
+            <txt>Very well, let's see if you can keep up this performance</txt>
+            <txt>Time to move on to the next challenge</txt>
+        </textos>
+
+    </fim_dialogo>
+</npc>

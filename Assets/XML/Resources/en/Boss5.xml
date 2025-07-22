@@ -1,0 +1,28 @@
+<npc>
+    <pergunta_dialogo name="Megatron">
+
+        <textos>
+            <txt>Considering that all laboratories listed in the options are accredited under NBR ISO/IEC 17025 Identify the option that represents a NON-conformity based on the referenced management system</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Laboratory AsdXy allows the authority and responsibility of technical personnel to be modified without the need for formal documentation</txt>
+            <txt>An accredited laboratory ensures that all laboratory activities conducted outside the permanent facilities meet normative and client requirements</txt>
+            <txt>A laboratory establishes documented procedures to ensure consistent application of its activities</txt>
+            <txt>Laboratory AsdXy ensures that all responsibilities, authorities, and interactions between functions affecting the quality of results are documented and communicated</txt>
+            <txt>An accredited laboratory conducts periodic reviews of the management system documentation to ensure it remains suitable and effective for its activities</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>I underestimated you, but I saved the best for last</txt>
+            <txt>Few have made it this far, and even the sharpest barely managed to answer this final trial</txt>
+            <txt>I won't be the laughingstock of the other guardians... I can't make it easy for you</txt>
+            <txt>ATTENTION, and answer the final challenge</txt>
+        </textos>
+
+    </fim_dialogo>
+</npc>

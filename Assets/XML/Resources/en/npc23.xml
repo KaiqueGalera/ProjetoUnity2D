@@ -1,0 +1,81 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Did you know, did you know</txt>
+            <txt>That technical records can be physical or digital, but must be legible</txt>
+            <txt>Did you know</txt>
+            <txt>That even in the clouds... traceability is a requirement</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Not this again</txt>
+            <txt>Alright, just tell me which part of the cloud you represent</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>I am fragment 8.2.33</txt>
+            <txt>Responsible for maintaining... system integrity</txt>
+            <txt>Did you know</txt>
+            <txt>That uncontrolled documents are an imminent risk</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Wow, you're like a backup that gained consciousness</txt>
+            <txt>Alright, hit me with your protocol or whatever</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Initiating verification protocol CLOUD-7.8</txt>
+            <txt>Reliability confirmation...</txt>
+            <txt>Record integrity check...</txt>
+            <txt>Test initiated</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Considering that all laboratories mentioned below are accredited under ISO/IEC 17025, indicate the alternative that represents a NON-conformity regarding the management system and document control</txt>
+        </textos>
+
+        <alternativas>
+            <txt>A recently accredited laboratory defined and documented all activities within its management system scope While activities outside the system are also clearly described</txt>
+            <txt>After reviewing its testing procedures, the laboratory decides not to record intermediate results, considering them irrelevant to the final report</txt>
+            <txt>At the client's request, a laboratory performed testing at the client's premises The client had all necessary equipment but followed standard procedures from its own facility</txt>
+            <txt>Over the past three months, the chemical analysis laboratory has been undergoing changes to its management system structure, always ensuring the integrity of its system</txt>
+            <txt>A testing laboratory has a direct reporting channel to top management, used among other things to keep them updated on system performance and needs</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>Response recorded...</txt>
+            <txt>Backup updated with your progress</txt>
+            <txt>Keep moving forward, data explorer</txt>
+            <txt>The next byte may be your final challenge</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

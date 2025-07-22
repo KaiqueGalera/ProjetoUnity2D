@@ -1,0 +1,29 @@
+<npc>
+    <pergunta_dialogo name="Megatron">
+
+        <textos>
+            <txt>Considering that all laboratories listed in the options are accredited under NBR ISO/IEC 17025 Identify the option that represents a Conformity based on the referenced management system</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Laboratory AsdXy does not monitor environmental conditions when they do not influence the validity of the results</txt>
+            <txt>Laboratory AsdXy always records its environmental conditions, and when inadequate, they document them in a special record so the issue can be investigated later</txt>
+            <txt>A laboratory ensures that laboratory activities are conducted in accordance with its clients' guidelines and established contracts</txt>
+            <txt>Laboratory AsdXy maintains documented control of critical environmental conditions and ensures corrective actions whenever acceptable limits are exceeded</txt>
+            <txt>An accredited laboratory ensures that client requirements, legal requirements, and applicable service requirements are analyzed, understood, and implemented before starting the activity</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>You've come a long way</txt>
+            <txt>I admit it, you've surprised me Few make it this far toward defeating me</txt>
+            <txt>But every management system has its weakness will we discover yours now</txt>
+            <txt>Answer this one... and see the phase draw closer to its end</txt>
+            <txt>Let's go, challenger of conformity</txt>
+        </textos>
+
+    </fim_dialogo>
+</npc>

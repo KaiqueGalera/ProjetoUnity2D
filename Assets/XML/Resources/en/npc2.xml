@@ -1,0 +1,61 @@
+<npc>
+
+    <inicio_dialogo name= "Requirement">
+
+        <textos>
+            <txt>Stop right there, and get ready.</txt>
+            <txt>This is serious business, and you should think twice before answering what your brain comes up with.</txt>
+            <txt>Don't think it's easy, consult the standard or fall into despair.</txt>
+            <txt>HAHAHAHA</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>What, for free? What a tough character.</txt>
+            <txt>It seems like I don'’'t have a choice, do I?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Requirement">
+
+        <textos>
+            <txt>PAPER? PAPER???</txt>
+            <txt>How dare you...</txt>
+            <txt>Don't you recognize a requirement when it's right in front of you? There's much to teach you.</txt>
+            <txt>Now I'm not going to make it easy... get ready.</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name= "Requirement">
+
+        <textos>
+            <txt>Considering that all laboratories mentioned in the options are accredited under NBR ISO/IEC 17025, indicate the option that represents a NON-conformity based on the cited management system.</txt>
+        </textos>
+
+        <alternativas>
+            <txt>A laboratory accredited under ISO/IEC 17025 has an environmental control system that documents the necessary requirements to perform its activities.</txt>
+            <txt>The AsdXy laboratory monitors, controls, and records environmental conditions, and since it has few personnel, there'’'s no need to control access to areas affecting its activities.</txt>
+            <txt>Every 3 months, the AsdXy laboratory conducts a review of the environmental control measures implemented, in accordance with its procedures.</txt>
+            <txt>An accredited laboratory has implemented measures to prevent contamination and adverse interferences in its activities, preparing to integrate new analytical activities.</txt>
+            <txt>A laboratory ensures that the facilities used for laboratory activities do not adversely affect the validity of the results.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name= "Requirement">
+
+        <textos>
+            <txt>Hmmm...</txt>
+            <txt>A wise decision! Or was it??</txt>
+            <txt>Only time will tell...</txt>
+            <txt>Continue your journey, uncover the mysteries of quality, and face the Calibratron to get one step closer to returning home...</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

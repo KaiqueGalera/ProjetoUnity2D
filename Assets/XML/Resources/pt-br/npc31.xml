@@ -1,0 +1,47 @@
+<npc>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Maria... você chegou ao Mundo da Amostra</txt>
+            <txt>Aqui, cada ambiente representa um desafio único — assim como cada tipo de amostra em um laboratório químico</txt>
+            <txt>A floresta é onde tudo começa: a coleta, o planejamento, a dúvida entre o que escolher e o que deixar</txt>
+            <txt>Mas cuidado…</txt>
+            <txt>No deserto, tudo evapora se não for bem armazenado</txt>
+            <txt>No mar, há mistérios profundos... e perigos também</txt>
+            <txt>Você pode até mergulhar... mas nunca ficará sem fôlego</txt>
+            <txt>E na caverna de fogo, todo erro vira cinza</txt>
+            <txt>Use sua bússola do conhecimento e siga os sinais da norma</txt>
+            <txt>Está pronta para o caminho?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Floresta, mar, deserto e fogo... isso tudo pra analisar uma amostra?</txt>
+            <txt>Ou será que cada mundo revela algo sobre o processo?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Exatamente. Cada elemento desse mundo representa uma etapa crítica: da coleta ao descarte</txt>
+            <txt>E lembre-se: o que importa não é só o que você coleta, mas como você cuida</txt>
+            <txt>Vá com atenção. As amostras falam com quem sabe escutar</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <fim_dialogo name="Bruno">
+
+        <textos>
+            <txt>Agora vá… e que sua jornada seja precisa, representativa e rastreável</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

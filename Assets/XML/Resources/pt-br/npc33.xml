@@ -1,0 +1,56 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Escuta…</txt>
+            <txt>Essa brisa carrega o som das amostras sendo mal coletadas… sem plano, sem critério, sem futuro</txt>
+            <txt>A floresta não perdoa erros metodológicos</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Eu só achei umas folhas interessantes e guardei num pote… não tem plano melhor que esse, tem?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Tem sim. Chama-se plano de amostragem. E não é só para folhas — é para tudo que requer confiabilidade</txt>
+            <txt>Sem rastreabilidade, seus dados são como sementes ao vento</txt>
+            <txt>Vamos ver se você sabe colher como manda a norma?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Qual das alternativas abaixo representa uma **NÃO conformidade** com os requisitos de amostragem segundo a ISO/IEC 17025 (item 7.3)?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório elabora plano de amostragem quando é responsável por essa atividade, considerando critérios técnicos e estatísticos adequados.</txt>
+            <txt>Os registros da amostragem incluem identificação da amostra, data, local, responsável e metodologia utilizada, assegurando rastreabilidade.</txt>
+            <txt>Os técnicos realizam amostragens baseando-se apenas em sua experiência, sem documentação formal, pois isso agiliza o processo.</txt>
+            <txt>O laboratório utiliza procedimentos documentados para garantir que as amostras representem adequadamente o lote de origem.</txt>
+            <txt>O plano de amostragem é revisado e ajustado conforme a necessidade técnica ou mudanças nos requisitos do cliente.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>Seus resultados crescem como árvores… mas só se a raiz — a amostragem — for bem cuidada</txt>
+            <txt>Avance. A próxima paisagem trará novas exigências… e novos erros a evitar</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

@@ -1,0 +1,76 @@
+<npc>
+
+    <inicio_dialogo name="Joel">
+
+        <textos>
+            <txt>I see you've noticed the floating papers... they're not just decoration, you know</txt>
+            <txt>In this airborne lab, we store everything in the clouds both literally and digitally</txt>
+            <txt>Each drifting fragment here is part of a document, a record, or a technical result</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Wow... so that's why everything feels so chaotic</txt>
+            <txt>But... how do you find what you need with everything flying around like that</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Joel">
+
+        <textos>
+            <txt>Ah, young Maria, here chaos comes with structure</txt>
+            <txt>Following the standard's requirements, we have a documented management system</txt>
+            <txt>Every file, every result, every revision... everything has a purpose and its place</txt>
+            <txt>Control, traceability, and access — even in the clouds, nothing can be lost</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>So even with clouds constantly shifting, the data stays reliable</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Joel">
+
+        <textos>
+            <txt>Exactly The sky may seem uncertain, but our records are not</txt>
+            <txt>And speaking of that... are you ready to test your knowledge</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Joel">
+
+        <textos>
+            <txt>Consider the ISO/IEC 17025 requirements on document control, reporting of results, and technical records Which of the following represents a non-conformity</txt>
+        </textos>
+
+        <alternativas>
+            <txt>WindLab keeps all technical records organized, accessible, and with full traceability</txt>
+            <txt>Nimbus Lab updates its documented procedures without keeping records of previous versions</txt>
+            <txt>Cirrus Lab periodically reviews its controlled documents, ensuring only the current version is accessible</txt>
+            <txt>Stratus Lab includes in its reports all the information needed to interpret the results</txt>
+            <txt>Altocumulus Lab ensures the security and confidentiality of electronic documents stored on protected servers</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Joel">
+
+        <textos>
+            <txt>Good choices lead to smooth flights</txt>
+            <txt>The right answer won't be revealed now, but you'll feel it when you get it right</txt>
+            <txt>Keep moving forward, and may the clouds safely hold what you've learned</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

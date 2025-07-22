@@ -1,0 +1,69 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>You again</txt>
+            <txt>Did you think you'd stroll peacefully through the clouds</txt>
+            <txt>The skies are calm only for those who control their documents</txt>
+            <txt>Prepare for storms if you bring informality</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Wow, so welcoming</txt>
+            <txt>Do you always threaten people before saying hello</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Welcoming? Here we work with RIGOR</txt>
+            <txt>Reporting results, maintaining technical records, controlling documents</txt>
+            <txt>This is the true art of floating in this world</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Okay, I get it — everything here is extremely... by the book</txt>
+            <txt>Alright then, hit me with the next challenge</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Which of the following alternatives represents a NON-conformity with the principles of management system documentation</txt>
+        </textos>
+
+        <alternativas>
+            <txt>A laboratory documents its activities and retains technical records as evidence of compliance with the standard</txt>
+            <txt>The laboratory replaces its documented procedures with verbal instructions given by experienced technicians to save time</txt>
+            <txt>The laboratory's controlled documents are reviewed, updated, and approved before being distributed</txt>
+            <txt>Changes to documents are identified and tracked to ensure the validity and reliability of the information</txt>
+            <txt>Records are stored in a way that ensures their protection and easy retrieval when needed</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>Interesting... maybe you're starting to understand the essence of conformity</txt>
+            <txt>Or maybe you just got lucky</txt>
+            <txt>Either way, move on</txt>
+            <txt>The fog lifts only for those who respect every requirement of the standard</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

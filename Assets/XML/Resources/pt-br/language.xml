@@ -1,0 +1,30 @@
+<language>
+
+    <interface name= "interface_titulo">
+
+        <textos>
+            <txt>JOGAR</txt>
+            <txt>OPÇÕES</txt>
+            <txt>CARREGAR</txt>
+            <txt>ANALISTA</txt>
+            <txt>GERENTE</txt>
+            <txt>AUDITOR</txt>
+            <txt>FACIL</txt>
+            <txt>MÉDIO</txt>
+            <txt>DIFÍCIL</txt>
+            <txt>EQUIPAMENTO</txt>
+            <txt>DOCUMENTO</txt>
+        </textos>
+
+    </interface>
+ 
+    <interface name= "interface_conversa">
+
+        <textos>
+            <txt>Olá, como você está ?</txt>
+        </textos>
+
+    </interface>
+
+
+</language>

@@ -1,0 +1,18 @@
+<npc>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>Impossível... você venceu todas as etapas. Minhas barreiras normativas foram inúteis contra você.</txt>
+            <txt>Com isso, meu domínio sobre instalações e equipamentos se desfaz. Você passou pelo crivo da rastreabilidade, da calibração e do controle ambiental</txt>
+            <txt>Mas não pense que acabou. Esta foi apenas uma das fases</txt>
+            <txt>Outros guardiões o esperam, cada um representando desafios mais complexos dos requisitos da ISO/IEC 17025.</txt>
+            <txt>Somente ao derrotá-los, você poderá encarar o derradeiro... o Grande Oráculo.</txt>
+            <txt>Ele tudo sabe, tudo audita... um ser quase místico, nascido da fusão dos órgãos reguladores!</txt>
+            <txt>Alguns o chamam de "ConforMETRO", outros apenas tremem ao ouvir 'acreditAÇÃO'.</txt>
+            <txt>Prepare-se... o verdadeiro jogo está apenas começando.</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

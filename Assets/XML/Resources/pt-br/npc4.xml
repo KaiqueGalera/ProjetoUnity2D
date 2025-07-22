@@ -1,0 +1,79 @@
+<npc>
+
+    <inicio_dialogo name= "Bruno">
+
+        <textos>
+            <txt>Olá nobre aventureiro</txt>
+            <txt>Eu sou o Bruno, um dos analistas desse mundo</txt>
+            <txt>Avançou bastante até aqui, mas será que está preparado para receber o terceiro fragmento?</txt>
+            <txt>Sobre suas habilidades de desviar não tenho dúvida que existem, pois chegou até aqui hahahaha</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Uffa, outro humano, com esses maquinários e papeis flutuantes estranhos já estava enlouquecendo</txt>
+            <txt>Prazer Bruno</txt>
+            <txt>Por acaso não sabe um caminho mais curto para eu voltar a terra, sabe?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Bruno">
+
+        <textos>
+            <txt>Sinto muito, mas nesse qualidade só existe uma maneira</txt>
+            <txt>e para torná-la mais fácil é importante estar com a norma e saber usá-la</txt>
+            <txt>identifique a não conformidade, ache o item relacionado na norma, encontre os problemas causadores e como resolvê-los</txt>
+            <txt>com a prática, você vai melhorar o seu intuito e se tornará apena um com a norma</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Obrigado pelas dicas..</txt>
+            <txt>(um com a norma... que cara estranho)</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Bruno">
+
+        <textos>
+            <txt>Sem mais enrrolação, aqui vai a minha questão</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <pergunta_dialogo name= "Bruno">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma conformidade com base no sistema de gestão citado?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório AsdXy, recém acreditado não implementa medidas para separar áreas com atividades de laboratório incompatíveis por possuir apenas uma sala para análise e executar apenas uma análise</txt>
+            <txt>Um laboratório de análises realizou suas atividades em instalações fora de seu controle, realizando devidos registros, atuando conforme os seus próprios procedimentos</txt>
+            <txt>O laboratório AsdXy possui um sistema tecnológico que controla e registra todas as condições ambientais, e os valores de temperatura são colocados pensando apenas no conforto dos colaboradores</txt>
+            <txt>Por possuir um sistema tecnológico de controle do ambiente, o laboratório AsdXy não necessita registrar seus valores, pois essas são sempre constantes</txt>
+            <txt>Um laboratório de análise de solos realiza suas atividades sem considerar a contaminação microbiológica e outros fatores ambientais, pois mantem tudo sempre limpo</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name= "Bruno">
+
+        <textos>
+            <txt>Desejo toda sorte</txt>
+            <txt>Por hora não posso revelar a resposta... mas saberá no momento que precisar</txt>
+            <txt>Um até logo caso precise voltar</txt>
+            <txt>e um adeus se o seu objetivo encontrar</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

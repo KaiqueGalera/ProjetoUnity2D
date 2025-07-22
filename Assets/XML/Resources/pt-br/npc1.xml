@@ -1,0 +1,89 @@
+<npc>
+
+    <inicio_dialogo name= "Joel">
+
+        <textos>
+            <txt>Seja bem vindo, seja bem vinda!</txt>
+            <txt>Deve estar um pouco confusa, ao menos é o que acontece com viajantes interdimensionais</txt>
+            <txt>Mas não se preocupe, seremos o seu guia nessa jornada</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Obrigado, eu acho</txt>
+            <txt>Pra começar... quem é você e o que é este lugar ?</txt>
+        </textos>
+
+    </inicio_dialogo>
+    
+    <inicio_dialogo name= "Joel">
+
+        <textos>
+            <txt>Sou o Joel</txt>
+            <txt>E aqui é um dos mundos do universo da qualidade, batizado como mundo dos equipamentos</txt>
+            <txt>Não tenho muita certeza, mas talvez seja por conta dos mecanoides terríveis espalhados por aí</txt>
+            <txt>Ou ainda, por conta do calibratron o calibrador dos calibradores</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Calibra o que ?</txt>
+            <txt>Eu só quero voltar pra casa</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Joel">
+
+        <textos>
+            <txt>Mas porque não disse antes, isso é fácil</txt>
+            <txt>Para viajar para sua dimensão deve apenas...</txt>
+            <txt>Coletar todos os requisitos da norma, derrotar todas as fases e seus inimigos mortais, responder a questionamentos mirabolantes e passar pelo último boss, digo, zelador</txt>
+            <txt>Aaaa e só encontrará o zelador caso consiga pontuação suficiente em cada fase, ele é meio criterioso</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Maria">
+
+        <textos>
+            <txt>Realmente, parece suuuper fácil</txt>
+            <txt>Não tem algum ônibus intergalático ou coisa do tipo?</txt>
+            <txt>nem precisa responder...</txt>
+            <txt>parece que eu não tenho muito escolha</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name= "Joel">
+
+        <textos>
+            <txt>É.. acho que não tem muita escolha</txt>
+            <txt>Mas veja pelo lado positivo, ao menos conhecerá nosso incrível universo...</txt>
+            <txt>Não temos muitos sobreviventes.. digo visitantes</txt>
+            <txt>Aproveite a jornada e tente se desafiar...</txt>
+            <txt>Aa como última dica, recomendo andar com a norma : NBR ISO/IEC 17025 em mãos, importante consulta-lá em momentos de dificuldade</txt>
+        </textos>
+
+        
+    </inicio_dialogo>
+
+    <fim_dialogo name= "Joel">
+
+        <textos>
+            <txt>Acho que não mencionei, mas nesse universo não nos repetimos</txt>
+            <txt>Então preste atenção nos dialogos!</txt>
+            <txt>Mas caso tenha perdido... complete todos os mundos, respondendo os questionamentos e derrotando os inimigos que controlam aquele mundo</txt>
+            <txt>Boa sorte na sua jornada!</txt>
+        </textos>
+
+    </fim_dialogo>
+
+
+</npc>

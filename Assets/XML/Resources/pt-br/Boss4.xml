@@ -1,0 +1,30 @@
+<npc>
+    <pergunta_dialogo name= "Megatron">
+
+        <textos>
+            <txt>Considerando que todos os laboratórios presentes nas alternativas são acreditados na NBR ISO/IEC 17025. Indique a alternativa que representa uma Conformidade com base no sistema de gestão citado?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório AsdXy não monitora as condições ambientais quando estas não influenciam a validade dos resultados</txt>
+            <txt>O laboratório AsdXy sempre faz registros de suas condiç ambientais, e quando inadequadas, anotam em um documento especial para que possa ser investigado o problema posteriormente</txt>
+            <txt>Um laboratório assegura que as atividades de laboratório sejam realizadas de modo a atender as orientações dos seus clientes e contratos estabelecidos</txt>
+            <txt>O laboratório AsdXy mantém controle documentado das condições ambientais críticas e assegura ações corretivas sempre que os limites aceitáveis forem ultrapassados</txt>
+            <txt>Um laboratório acreditado garante que os requisitos do cliente, requisitos legais e requisitos aplicáveis ao serviço sejam analisados, compreendidos e implementados antes de iniciar a atividade</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Megatron">
+
+        <textos>
+            <txt>Você chegou longe... </txt>
+            <txt>Admito, você me surpreendeu. Poucos chegam tão perto de me vencer</txt>
+            <txt>Mas todo sistema de gestão tem seu ponto fraco será que descobriremos o seu agora?</txt>
+            <txt>Responda mais esta... e veja a fase chegar mais próximo do fim</txt>
+            <txt>Vamos lá, desafiante da conformidade!</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

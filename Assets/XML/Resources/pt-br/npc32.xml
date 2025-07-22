@@ -1,0 +1,58 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Estamos de novo sob o sol cruel, Maria...</txt>
+            <txt>Você já enfrentou o calor da negligência e a secura do descontrole documental</txt>
+            <txt>Mas há um aspecto que muitos ignoram…</txt>
+            <txt>Mesmo armazenados corretamente, os itens precisam de rastreabilidade constante</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Então não basta só colocar no lugar certo?</txt>
+            <txt>Tem que saber onde, quando e por quem foi usado?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Exato. O passado de cada amostra precisa estar claro como um oásis no deserto</txt>
+            <txt>Prepare-se. Vamos ver se você realmente sabe como manter um item sob controle</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Qual das alternativas representa uma **não conformidade** com o item 7.4 da ISO/IEC 17025, considerando rastreabilidade e controle durante o armazenamento?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>O laboratório mantém registros de entrada, uso e descarte de cada item de calibração, assegurando rastreabilidade total.</txt>
+            <txt>Os itens são identificados por etiquetas contendo código, status e validade, visíveis durante todo o armazenamento.</txt>
+            <txt>Itens que não foram utilizados ainda não possuem nenhum tipo de registro, pois estão “em repouso”.</txt>
+            <txt>O sistema de armazenamento permite rastrear rapidamente a localização exata de cada amostra ou padrão armazenado.</txt>
+            <txt>Todos os registros referentes ao manuseio dos itens são atualizados sempre que há movimentação significativa.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>Sem rastreabilidade, até a areia mais fina vira labirinto</txt>
+            <txt>Mas com controle... até o deserto se torna confiável</txt>
+            <txt>Siga adiante, ainda há calor pela frente</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>
