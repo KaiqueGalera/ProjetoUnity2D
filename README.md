@@ -60,7 +60,7 @@ Você poderá conferir aqui imagens e vídeos da jogabilidade.
 
 **Kaique Dias Galera**  
 Doutorando em Química — Universidade de São Paulo (USP)  
-Contato: [kaiquediasgalera@gmail.com](mailto:kaiquediasgalera@gmail.com)
+Contato: [kaiquediasgalera@gmail.com](mailto:kaiquegalera@gmail.com)
 
 ---
 
