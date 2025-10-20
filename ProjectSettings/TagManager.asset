@@ -23,6 +23,9 @@ TagManager:
   - speed_c
   - PlayerFeet
   - Water
+  - Gelo
+  - bear
+  - shark
   layers:
   - Default
   - TransparentFX

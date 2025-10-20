@@ -448,7 +448,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 537, y: 400}
+  m_AnchoredPosition: {x: 537, y: 356}
   m_SizeDelta: {x: 160, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &617262688
@@ -1288,7 +1288,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 535, y: 180}
+  m_AnchoredPosition: {x: 535, y: 256}
   m_SizeDelta: {x: 160, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1188698370
@@ -1943,9 +1943,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newGameBtn: {fileID: 617262688}
-  continueBtn: {fileID: 2048699032}
   playText: {fileID: 859690793}
-  loadText: {fileID: 9719710}
   optionsText: {fileID: 1383639019}
 --- !u!114 &1935447941
 MonoBehaviour:
@@ -1964,16 +1962,19 @@ MonoBehaviour:
     playerAmmShoot: 0
     platformSpeed: 0
     playerInveTime: 0
+    bossAttack1: 0
   normal:
     playerLives: 0
     playerAmmShoot: 0
     platformSpeed: 0
     playerInveTime: 0
+    bossAttack1: 0
   hard:
     playerLives: 0
     playerAmmShoot: 0
     platformSpeed: 0
     playerInveTime: 0
+    bossAttack1: 0
 --- !u!114 &1935447942
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2009,7 +2010,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2048699031
 RectTransform:
   m_ObjectHideFlags: 0

@@ -65,7 +65,7 @@ public class LifeController : MonoBehaviour, IDataPersistence
         if (isInvencible == false)
         {
             StartCoroutine("BeInvencible");
-            //_AudioController.sDmgHeroFx.PlayOneShot(_AudioController.dmgHeroFx);
+            _AudioController.sDmgHeroFx.PlayOneShot(_AudioController.dmgHeroFx);
 
             currentHealth -= dmg;
             _HealthBarUI.SetHealth(currentHealth);
@@ -73,7 +73,7 @@ public class LifeController : MonoBehaviour, IDataPersistence
             if (currentHealth <= 0)
             {
                 currentLifes --;
-                //_AudioController.sRevive.PlayOneShot(_AudioController.revive);
+                _AudioController.sRevive.PlayOneShot(_AudioController.revive);
                 
                 UpdateLifes();
 

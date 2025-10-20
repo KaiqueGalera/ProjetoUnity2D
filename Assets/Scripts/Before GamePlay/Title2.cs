@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 public class Title2 : MonoBehaviour
@@ -13,9 +14,11 @@ public class Title2 : MonoBehaviour
 
     [Header("Interface - Mudança de idioma")]
     private     LoadXMLFile             _LoadXMLFile;
-    public      Text                        analy;
-    public      Text                        manager;
-    public      Text                        auditor;
+    public      TextMeshProUGUI                        analy;
+    public      TextMeshProUGUI                        manager;
+    public      TextMeshProUGUI                        auditor;
+    public      TextMeshProUGUI                        difficulty;
+    public      TextMeshProUGUI                        norm;
 
 
 
@@ -30,6 +33,8 @@ public class Title2 : MonoBehaviour
         analy.text        = _LoadXMLFile.interface_titulo[3];
         manager.text      = _LoadXMLFile.interface_titulo[4];
         auditor.text      = _LoadXMLFile.interface_titulo[5];
+        difficulty.text      = _LoadXMLFile.interface_titulo[11];
+        norm.text      = _LoadXMLFile.interface_titulo[12];
 
     }
 
@@ -41,19 +46,19 @@ public class Title2 : MonoBehaviour
                 PlayerPrefs.SetInt("DificuldadeRange", 3); // Define range para 3
                 DisabeAllQDifficultyBtn();
                 // Carregar a próxima cena
-                _AudioController.ChangeScene("Title 3", false, _AudioController.gamePlayMusic);
+                _AudioController.ChangeScene("Titleteste3", false, _AudioController.gamePlayMusic);
                 break;
             case "Gerente":
                 PlayerPrefs.SetInt("DificuldadeRange", 4); // Define range para 4
                 DisabeAllQDifficultyBtn();
                 // Carregar a próxima cena
-                _AudioController.ChangeScene("Title 3", false, _AudioController.gamePlayMusic);
+                _AudioController.ChangeScene("Titleteste3", false, _AudioController.gamePlayMusic);
                 break;
             case "Auditor":
                 PlayerPrefs.SetInt("DificuldadeRange", 5); // Define range para 5
                 DisabeAllQDifficultyBtn();
                 // Carregar a próxima cena
-                _AudioController.ChangeScene("Title 3", false, _AudioController.gamePlayMusic);
+                _AudioController.ChangeScene("Titleteste3", false, _AudioController.gamePlayMusic);
                 break;
         }
 
@@ -75,5 +80,7 @@ public class Title2 : MonoBehaviour
         analy.text         = _LoadXMLFile.interface_titulo[3];
         manager.text       = _LoadXMLFile.interface_titulo[4];
         auditor.text       = _LoadXMLFile.interface_titulo[5];
+        difficulty.text    = _LoadXMLFile.interface_titulo[11];
+        norm.text          = _LoadXMLFile.interface_titulo[12];
     }
 }

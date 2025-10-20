@@ -3,10 +3,9 @@
     <inicio_dialogo name="Requisito">
 
         <textos>
-            <txt>Estamos de novo sob o sol cruel, Maria...</txt>
-            <txt>Você já enfrentou o calor da negligência e a secura do descontrole documental</txt>
-            <txt>Mas há um aspecto que muitos ignoram…</txt>
-            <txt>Mesmo armazenados corretamente, os itens precisam de rastreabilidade constante</txt>
+            <txt>Sente o frio, Maria? Aqui, até o tempo parece congelar...</txt>
+            <txt>Mas não se engane: uma amostra esquecida no gelo pode perder sua representatividade tão rápido quanto derrete uma estalactite ao sol</txt>
+            <txt>O verdadeiro desafio aqui não é apenas conservar... é rastrear, registrar e garantir que cada passo seja documentado</txt>
         </textos>
 
     </inicio_dialogo>
@@ -14,8 +13,8 @@
     <inicio_dialogo name="Maria">
 
         <textos>
-            <txt>Então não basta só colocar no lugar certo?</txt>
-            <txt>Tem que saber onde, quando e por quem foi usado?</txt>
+            <txt>Então não basta só guardar no frio?</txt>
+            <txt>É preciso saber onde está, quanto tempo ficou e quem a manuseou?</txt>
         </textos>
 
     </inicio_dialogo>
@@ -23,8 +22,8 @@
     <inicio_dialogo name="Requisito">
 
         <textos>
-            <txt>Exato. O passado de cada amostra precisa estar claro como um oásis no deserto</txt>
-            <txt>Prepare-se. Vamos ver se você realmente sabe como manter um item sob controle</txt>
+            <txt>Exato. Uma amostra sem rastreabilidade é como um cristal de gelo perdido em meio a uma nevasca</txt>
+            <txt>Prepare-se. Vou testar se você realmente entende como manter sob controle aquilo que deve ser preservado</txt>
         </textos>
 
     </inicio_dialogo>
@@ -32,15 +31,15 @@
     <pergunta_dialogo name="Requisito">
 
         <textos>
-            <txt>Qual das alternativas representa uma **não conformidade** com o item 7.4 da ISO/IEC 17025, considerando rastreabilidade e controle durante o armazenamento?</txt>
+            <txt>Qual das alternativas representa uma não conformidade com o item 7.4 da ISO/IEC 17025, considerando rastreabilidade e controle de amostras armazenadas?</txt>
         </textos>
 
         <alternativas>
-            <txt>O laboratório mantém registros de entrada, uso e descarte de cada item de calibração, assegurando rastreabilidade total.</txt>
-            <txt>Os itens são identificados por etiquetas contendo código, status e validade, visíveis durante todo o armazenamento.</txt>
-            <txt>Itens que não foram utilizados ainda não possuem nenhum tipo de registro, pois estão “em repouso”.</txt>
-            <txt>O sistema de armazenamento permite rastrear rapidamente a localização exata de cada amostra ou padrão armazenado.</txt>
-            <txt>Todos os registros referentes ao manuseio dos itens são atualizados sempre que há movimentação significativa.</txt>
+            <txt>O laboratório mantém registros de entrada, uso e descarte de cada item de calibração, assegurando rastreabilidade completa.</txt>
+            <txt>As amostras são identificadas com etiquetas contendo código, status e data de validade, visíveis durante todo o período de armazenamento.</txt>
+            <txt>As amostras que ainda não foram utilizadas não possuem nenhum tipo de registro, já que estão “em repouso”.</txt>
+            <txt>O sistema de armazenamento permite rastrear rapidamente a localização e a condição de cada amostra armazenada.</txt>
+            <txt>Os registros referentes ao manuseio das amostras são atualizados sempre que há movimentações relevantes ou mudanças de status.</txt>
         </alternativas>
 
     </pergunta_dialogo>
@@ -48,9 +47,9 @@
     <fim_dialogo name="Requisito">
 
         <textos>
-            <txt>Sem rastreabilidade, até a areia mais fina vira labirinto</txt>
-            <txt>Mas com controle... até o deserto se torna confiável</txt>
-            <txt>Siga adiante, ainda há calor pela frente</txt>
+            <txt>No gelo, tudo parece imóvel... mas sem rastreabilidade, até o que está conservado se perde</txt>
+            <txt>Controle é o calor que mantém viva a confiança nos resultados</txt>
+            <txt>Avance, Maria... há ainda ambientes mais hostis te aguardando</txt>
         </textos>
 
     </fim_dialogo>

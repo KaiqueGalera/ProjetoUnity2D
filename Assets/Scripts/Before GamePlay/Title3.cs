@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -16,9 +17,11 @@ public class Title3 : MonoBehaviour
 
     [Header("Interface - Mudança de idioma")]
     private     LoadXMLFile             _LoadXMLFile;
-    public      Text                        easy;
-    public      Text                        medium;
-    public      Text                        hard;
+    public      TextMeshProUGUI         easy;
+    public      TextMeshProUGUI         medium;
+    public      TextMeshProUGUI         hard;
+    public      TextMeshProUGUI         difficulty;
+    public      TextMeshProUGUI         game;
 
 
 
@@ -35,6 +38,8 @@ public class Title3 : MonoBehaviour
         easy.text        = _LoadXMLFile.interface_titulo[6];
         medium.text      = _LoadXMLFile.interface_titulo[7];
         hard.text        = _LoadXMLFile.interface_titulo[8];
+        difficulty.text        = _LoadXMLFile.interface_titulo[11];
+        game.text        = _LoadXMLFile.interface_titulo[13];
 
     }
 
@@ -42,7 +47,7 @@ public class Title3 : MonoBehaviour
     {   
         DisabeAllDifficultyBtn();
         _GameSettings.SetDifficulty("Easy"); 
-        _AudioController.ChangeScene("Title 4", false, _AudioController.gamePlayMusic);
+        _AudioController.ChangeScene("Titleteste4", false, _AudioController.gamePlayMusic);
         // _AudioController.ChangeScene("GamePlay" , true, _AudioController.gamePlayMusic); 
     }
 
@@ -51,7 +56,7 @@ public class Title3 : MonoBehaviour
         DisabeAllDifficultyBtn();
         _GameSettings.SetDifficulty("Normal");
         // _AudioController.ChangeScene("GamePlay", true, _AudioController.gamePlayMusic);
-       _AudioController.ChangeScene("Title 4", false, _AudioController.gamePlayMusic);
+       _AudioController.ChangeScene("Titleteste4", false, _AudioController.gamePlayMusic);
  
         
     }
@@ -61,7 +66,7 @@ public class Title3 : MonoBehaviour
         DisabeAllDifficultyBtn();
         _GameSettings.SetDifficulty("Hard");  
         // _AudioController.ChangeScene("GamePlay", true, _AudioController.gamePlayMusic); 
-        _AudioController.ChangeScene("Title 4", false, _AudioController.gamePlayMusic);
+        _AudioController.ChangeScene("Titleteste4", false, _AudioController.gamePlayMusic);
     }
 
 
@@ -71,15 +76,17 @@ public class Title3 : MonoBehaviour
         normalBtn.interactable  = false;
         hardBtn.interactable    = false;
     }
-    
+
     public void ChangeLanguage(string language)
     {
         PlayerPrefs.SetString("defaultLanguage", language);
 
         _LoadXMLFile.LoadXMLData();
 
-        easy.text         = _LoadXMLFile.interface_titulo[6];
-        medium.text       = _LoadXMLFile.interface_titulo[7];
-        hard.text         = _LoadXMLFile.interface_titulo[8];
+        easy.text               = _LoadXMLFile.interface_titulo[6];
+        medium.text             = _LoadXMLFile.interface_titulo[7];
+        hard.text               = _LoadXMLFile.interface_titulo[8];
+        difficulty.text         = _LoadXMLFile.interface_titulo[11];
+        game.text               = _LoadXMLFile.interface_titulo[13];
     }
 }

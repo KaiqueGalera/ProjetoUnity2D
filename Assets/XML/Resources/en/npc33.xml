@@ -1,0 +1,59 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Listen, Maria...</txt>
+            <txt>The trees whisper about samples collected without a plan, without a method, without purpose</txt>
+            <txt>When sampling is careless, even the forest loses its harmony</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>So, a poorly done collection can affect the entire analysis?</txt>
+            <txt>I thought it was just about grabbing a handful of leaves and that’s it...</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Ah, if only it were that simple…</txt>
+            <txt>Without traceability, your data scatter like leaves in the wind</txt>
+            <txt>A sample without a plan is like a seed cast in barren soil — it never grows into reliable results</txt>
+            <txt>Let’s see if you can collect with the same care the standard requires</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Which of the following alternatives represents a **nonconformity** with the sampling requirements according to ISO/IEC 17025?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>The laboratory prepares a sampling plan when it is responsible for this activity, considering appropriate technical and statistical criteria.</txt>
+            <txt>Sampling records include the sample identification, date, location, responsible person, and method used, ensuring traceability.</txt>
+            <txt>Technicians perform sampling based solely on their experience, without formal documentation, as this speeds up the process.</txt>
+            <txt>The laboratory uses documented procedures to ensure that samples adequately represent the original batch.</txt>
+            <txt>The sampling plan is reviewed and adjusted as needed according to technical requirements or client changes.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>In the forest, every root sustains an entire tree</txt>
+            <txt>Likewise, a solid sampling plan sustains reliable results</txt>
+            <txt>Move forward, Maria. Nature teaches you just need to listen</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

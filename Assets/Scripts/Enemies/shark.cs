@@ -5,6 +5,7 @@ using UnityEngine;
 public class Shark : MonoBehaviour
 {
     private HitEffect _HitEffect;
+    public bool isDead = false;
 
     [Header("Movimentação")]
     public Transform[] points;       // Pontos de patrulha
@@ -25,7 +26,7 @@ public class Shark : MonoBehaviour
         _HitEffect = GetComponent<HitEffect>();
 
         // Desativa o collider inicialmente
-        collider2DM.enabled = false;
+        // collider2DM.enabled = false;s
 
         // Inicializa posição do inimigo no primeiro ponto
         enemy.position = points[0].position;
@@ -65,27 +66,37 @@ public class Shark : MonoBehaviour
         enemy.localScale = theScale;
     }
 
-    public void TakeDmg(int dmg)
+    public void TakeDamage(int damage)
     {
-        currentHealth -= dmg;
+        if (isDead) return;
 
+        currentHealth -= damage;
         _HitEffect.CallDmgHit();
 
         if (currentHealth <= 0)
         {
-            speed = 0;
+            Die();
         }
     }
-
     void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.CompareTag("Player"))
+        switch (col.gameObject.tag)
         {
-            LifeController _LifeController = col.GetComponent<LifeController>();
-            if (_LifeController != null)
-            {
-                _LifeController.HeroDmgControl(15);
-            }
+            case "Player":
+                LifeController _LifeController = col.GetComponent<LifeController>();
+                if (_LifeController != null)
+                {
+                    _LifeController.HeroDmgControl(25);
+                }
+                break;
         }
     }
+    private void Die()
+    {
+        isDead = true;
+        speed = 0;
+        Destroy(gameObject, 1.0f); // Esperar a animação de morte antes de destruir o objeto
+    }
+
+
 }

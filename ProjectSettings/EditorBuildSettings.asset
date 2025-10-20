@@ -9,15 +9,27 @@ EditorBuildSettings:
     path: Assets/Scenes/PreTitle.unity
     guid: e0121696fc7dffc4f8040bf6edfd9512
   - enabled: 1
+    path: Assets/Scenes/Titleteste.unity
+    guid: 074a2c281fb5b8240833e4bd47b5540a
+  - enabled: 1
+    path: Assets/Scenes/Titleteste2.unity
+    guid: cdf535b3bcb6fa84f8e84db5c0a60a78
+  - enabled: 1
+    path: Assets/Scenes/Titleteste3.unity
+    guid: 24b683655ce989f42b8e6598dcb75359
+  - enabled: 1
+    path: Assets/Scenes/Titleteste4.unity
+    guid: 263dd6ab10ceef246bd3742aa3b506a6
+  - enabled: 0
     path: Assets/Scenes/Title.unity
     guid: cb39fd21e5515344788b6c9d8e275771
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Title 2.unity
     guid: 3c873effea2470a4db7b11228f5b2636
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Title 3.unity
     guid: a457327da4eaa3e43a229506b5643751
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Title 4.unity
     guid: 338ac5c0c3c12d74faf56215f1232040
   - enabled: 1

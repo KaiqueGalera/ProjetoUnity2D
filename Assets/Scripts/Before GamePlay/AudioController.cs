@@ -33,6 +33,9 @@ public class AudioController : MonoBehaviour
     public      AudioClip           explosion;
     public      AudioClip           mouthTrapSound;
     public      AudioClip           LaserShoot;
+    [Header("Botões menu houver/select")]
+    public      AudioClip           houverSound;
+    public      AudioClip           selectSound;
 
     [Header("Controle das fases")]
     public  bool                    isFaseEqDone = false;
@@ -58,7 +61,7 @@ public class AudioController : MonoBehaviour
     void Start()
     {
 
-        SceneManager.LoadScene("Title");;
+        SceneManager.LoadScene("Titleteste");;
         
 
     }

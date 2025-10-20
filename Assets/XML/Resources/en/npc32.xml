@@ -1,0 +1,57 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Do you feel the cold, Maria? Here, even time seems to freeze...</txt>
+            <txt>But don't be deceived: a sample forgotten in the ice can lose its representativeness as quickly as an icicle melts under the sun</txt>
+            <txt>The real challenge here is not only preservation... it's traceability, recordkeeping, and ensuring every step is documented</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>So it's not enough to just store it in the cold?</txt>
+            <txt>You also need to know where it is, how long it stayed, and who handled it?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Exactly. A sample without traceability is like a snowflake lost in a blizzard</txt>
+            <txt>Prepare yourself. I will test if you truly understand how to keep under control what must be preserved</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Which of the following alternatives represents a **nonconformity** with item 7.4 of ISO/IEC 17025, regarding traceability and control of stored samples?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>The laboratory keeps records of entry, use, and disposal of each calibration item, ensuring full traceability.</txt>
+            <txt>Samples are labeled with codes, status, and expiration dates, visible throughout the storage period.</txt>
+            <txt>Samples that have not yet been used have no records at all, since they are considered “at rest.”</txt>
+            <txt>The storage system allows quick tracking of the location and condition of each stored sample.</txt>
+            <txt>Records related to sample handling are updated whenever there are relevant movements or status changes.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>In the ice, everything seems still... but without traceability, even what is preserved can be lost</txt>
+            <txt>Control is the warmth that keeps trust in results alive</txt>
+            <txt>Move forward, Maria... harsher environments still await you</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

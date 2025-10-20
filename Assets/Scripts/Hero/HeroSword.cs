@@ -33,6 +33,14 @@ public class HeroSword : MonoBehaviour
                     _FlyMachine.TakeDmg(_GameController.swordDmg);
                 }
                 break;
+            case "shark":
+                // Lógica para aplicar dano a outros inimigos
+                Shark _Shark = other.GetComponent<Shark>();
+                if (_Shark != null)
+                {
+                    _Shark.TakeDamage(_GameController.swordDmg);
+                }
+                break;
         }
     }
 }

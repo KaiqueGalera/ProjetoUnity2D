@@ -3,9 +3,9 @@
     <inicio_dialogo name="Requisito">
 
         <textos>
-            <txt>Escuta…</txt>
-            <txt>Essa brisa carrega o som das amostras sendo mal coletadas… sem plano, sem critério, sem futuro</txt>
-            <txt>A floresta não perdoa erros metodológicos</txt>
+            <txt>Escuta, Maria…</txt>
+            <txt>As árvores sussurram sobre amostras colhidas sem plano, sem método, sem propósito</txt>
+            <txt>Quando a coleta é descuidada, até a floresta perde sua harmonia</txt>
         </textos>
 
     </inicio_dialogo>
@@ -13,7 +13,8 @@
     <inicio_dialogo name="Maria">
 
         <textos>
-            <txt>Eu só achei umas folhas interessantes e guardei num pote… não tem plano melhor que esse, tem?</txt>
+            <txt>Então uma coleta mal feita pode afetar toda a análise?</txt>
+            <txt>Eu achava que bastava pegar um punhado de folhas e pronto...</txt>
         </textos>
 
     </inicio_dialogo>
@@ -21,9 +22,10 @@
     <inicio_dialogo name="Requisito">
 
         <textos>
-            <txt>Tem sim. Chama-se plano de amostragem. E não é só para folhas — é para tudo que requer confiabilidade</txt>
-            <txt>Sem rastreabilidade, seus dados são como sementes ao vento</txt>
-            <txt>Vamos ver se você sabe colher como manda a norma?</txt>
+            <txt>Ah, se fosse tão simples…</txt>
+            <txt>Sem rastreabilidade, seus dados se espalham como folhas ao vento</txt>
+            <txt>Uma amostra sem plano é como uma semente lançada em solo infértil: nunca gera resultados confiáveis</txt>
+            <txt>Vamos ver se você sabe colher com o mesmo cuidado com que a norma exige</txt>
         </textos>
 
     </inicio_dialogo>
@@ -31,7 +33,7 @@
     <pergunta_dialogo name="Requisito">
 
         <textos>
-            <txt>Qual das alternativas abaixo representa uma **NÃO conformidade** com os requisitos de amostragem segundo a ISO/IEC 17025 (item 7.3)?</txt>
+            <txt>Qual das alternativas abaixo representa uma NÃO conformidade com os requisitos de amostragem segundo a ISO/IEC 17025?</txt>
         </textos>
 
         <alternativas>
@@ -47,8 +49,9 @@
     <fim_dialogo name="Requisito">
 
         <textos>
-            <txt>Seus resultados crescem como árvores… mas só se a raiz — a amostragem — for bem cuidada</txt>
-            <txt>Avance. A próxima paisagem trará novas exigências… e novos erros a evitar</txt>
+            <txt>Na floresta, cada raiz sustenta uma árvore inteira</txt>
+            <txt>Da mesma forma, um plano de amostragem sólido sustenta resultados confiáveis</txt>
+            <txt>Avance, Maria. A natureza ensina basta saber observar</txt>
         </textos>
 
     </fim_dialogo>

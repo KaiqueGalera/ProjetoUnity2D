@@ -11,6 +11,8 @@ public class PausedMenuManager : MonoBehaviour
     
     [Header("Scripts para desativar no pause")]
     [SerializeField] private HeroController _heroController;
+    [Header("Voltando a escolha de fases")]
+    [SerializeField] private AudioController _AudioController;
     
     [Header("Opções selecionadas")]
     [SerializeField] private GameObject     _mainMenuFirst;
@@ -22,6 +24,7 @@ public class PausedMenuManager : MonoBehaviour
     void Start()
     {
         _dialogControl = FindAnyObjectByType(typeof(DialogControl)) as DialogControl;
+        _AudioController = FindAnyObjectByType(typeof(AudioController)) as AudioController;
         pausedMenuPanel.SetActive(false);
         optionsMenuPanel.SetActive(false);
     }
@@ -57,12 +60,19 @@ public class PausedMenuManager : MonoBehaviour
 
     }
 
+    private void VoltarMenu()
+    {
+        Debug.Log("VoltarMenu");
+        Time.timeScale = 1f;
+        _AudioController.ChangeScene("Title 2", true, _AudioController.gamePlayMusic);
+    }
+
     private void Unpause() // Função que despausa, desativando qualquer menu, e voltando o tempo do jogo
     {
         isPaused = false;
 
         Time.timeScale = 1.0f;
-        
+
         _heroController.enabled = true;
 
         CloseAllMenus();
@@ -109,6 +119,10 @@ public class PausedMenuManager : MonoBehaviour
     public  void OnSettingsPress()
     {
         OpenSettingsMenuHandle();
+    }
+    public void OnVoltarMenuPress()
+    {
+        VoltarMenu();
     }
 
     public  void OnSairPress()

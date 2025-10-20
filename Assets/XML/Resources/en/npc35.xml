@@ -1,0 +1,54 @@
+<npc>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Welcome to the desert... here, time is cruel to everything that is not well stored</txt>
+            <txt>Humidity? Zero. Heat? Maximum. Result? A degraded sample if you hesitate</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>So all this heat is like a stability test?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Requisito">
+
+        <textos>
+            <txt>Perfectly said. To store is to protect. And here you must master this requirement or your data will evaporate</txt>
+            <txt>Prepare yourself. The fine sand hides great traps</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Requisito">
+
+        <textos>
+            <txt>Which of the alternatives represents a **nonconformity** with item 7.4 of ISO/IEC 17025?</txt>
+        </textos>
+
+        <alternativas>
+            <txt>The laboratory keeps test items in cabinets with temperature control and protection from direct sunlight.</txt>
+            <txt>Storage conditions are recorded and monitored to preserve the characteristics of the samples.</txt>
+            <txt>Calibration and test items are temporarily stored in a common area, with free access to visitors.</txt>
+            <txt>Documented procedures define the proper handling and storage of received items.</txt>
+            <txt>The laboratory stores samples in labeled containers, with expiration dates and clear identification.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Requisito">
+
+        <textos>
+            <txt>Not everything dry is dead. But a poorly stored sample... that one is truly lost</txt>
+            <txt>Let's see how you handle the next environment... where even glass melts</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

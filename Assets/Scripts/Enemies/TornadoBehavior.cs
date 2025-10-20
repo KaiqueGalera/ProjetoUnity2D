@@ -3,7 +3,7 @@ using UnityEngine;
 public class TornadoBehavior : MonoBehaviour
 {
     [Header("Força de elevação do tornado")]
-    public float liftForce = 10f;
+    public float liftForce = 15f;
     public float liftDuration = 0.5f;
 
     void OnTriggerEnter2D(Collider2D other)

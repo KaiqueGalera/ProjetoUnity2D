@@ -1,0 +1,47 @@
+<npc>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Maria... you've arrived at the World of the Sample</txt>
+            <txt>Here, each environment represents a unique challenge — just like every type of sample in a chemistry laboratory</txt>
+            <txt>The forest is where everything begins: collection, planning, the doubt between what to take and what to leave behind</txt>
+            <txt>The ice freezes time... but also tests your patience and how well you preserve what was collected</txt>
+            <txt>In the desert, everything evaporates if it's not properly stored</txt>
+            <txt>In the sea, there are deep mysteries... and dangers as well</txt>
+            <txt>You may dive... but you will never run out of breath</txt>
+            <txt>And in the fiery cave, every mistake turns to ashes</txt>
+            <txt>Use your compass of knowledge and follow the signs of the standard</txt>
+            <txt>Are you ready for the journey?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>Forest, ice, sea, desert, and fire... all this just to analyze a sample?</txt>
+            <txt>Or maybe each world reveals something about the process?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Bruno">
+
+        <textos>
+            <txt>Exactly. Each element of this world represents a critical step: from collection to conservation, from storage to disposal</txt>
+            <txt>And remember: what matters is not only what you collect, but how you take care of it</txt>
+            <txt>Go with attention. Samples speak to those who know how to listen</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <fim_dialogo name="Bruno">
+
+        <textos>
+            <txt>Now go... and may your journey be precise, representative, and traceable</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

@@ -56,12 +56,18 @@ public class EnemyShooter : MonoBehaviour
         if (projectilePrefab != null && firePoint != null)
         {
             GameObject proj = Instantiate(projectilePrefab, firePoint.position, firePoint.rotation);
-
             Rigidbody2D rb = proj.GetComponent<Rigidbody2D>();
-            if (rb != null)
+            SpriteRenderer sr = proj.GetComponent<SpriteRenderer>();
+
+            if (rb != null && sr != null)
             {
                 float direction = shootRight ? 1f : -1f;
                 rb.velocity = new Vector2(direction * projectileSpeed, 0f);
+
+                if (sr != null)
+                {
+                    sr.flipX = shootRight;
+                }
             }
         }
 

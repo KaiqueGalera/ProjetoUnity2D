@@ -3,17 +3,24 @@
     <interface name= "interface_titulo">
 
         <textos>
-            <txt>PLAY</txt>
+            <txt>PLAY</txt> 
             <txt>OPTIONS</txt>
-            <txt>LOAD</txt>
-            <txt>EASY</txt>
-            <txt>MEDIUM</txt>
-            <txt>HARD</txt>
+            <txt>LEAVE</txt>
             <txt>ANALYST</txt>
             <txt>MANAGER</txt>
             <txt>AUDITOR</txt>
+            <txt>EASY</txt>
+            <txt>MEDIUM</txt>
+            <txt>HARD</txt>
             <txt>EQUIPMENT</txt>
             <txt>DOCUMENT</txt>
+            <txt>DIFFICULTY</txt>
+            <txt>NORM</txt>
+            <txt>GAME</txt>
+            <txt>THE FACTORY</txt>
+            <txt>STORAGE</txt>
+            <txt>ELEMENTS</txt>
+            <txt>RETURN</txt>
         </textos>
 
     </interface>

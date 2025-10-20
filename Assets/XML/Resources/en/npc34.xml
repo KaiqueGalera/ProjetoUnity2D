@@ -1,0 +1,55 @@
+<npc>
+
+    <inicio_dialogo name="Joel">
+
+        <textos>
+            <txt>Ah, the ocean currents… always carrying precious things</txt>
+            <txt>But what if the sample is sensitive to temperature? What if the vial breaks along the way?</txt>
+            <txt>In the world of the sea, everything that is transported must be protected</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>I tied the jar tightly with string. Does that count as safe transport?</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Joel">
+
+        <textos>
+            <txt>If it's documented, validated, and preserves the integrity of the sample... maybe!</txt>
+            <txt>Let's test your knowledge before your sample turns into shark bait</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Joel">
+
+        <textos>
+            <txt>Indicate the alternative that represents a **nonconformity** with item 7.4 of ISO/IEC 17025 — handling of test and calibration items:</txt>
+        </textos>
+
+        <alternativas>
+            <txt>A laboratory transports test items ensuring they are protected against damage, contamination, or deterioration.</txt>
+            <txt>The laboratory records the condition of received samples and rejects those that arrive compromised and unsuitable for testing.</txt>
+            <txt>Items are handled and identified in a way that preserves their integrity, avoiding mix-ups between different samples.</txt>
+            <txt>The laboratory stores calibration items directly next to corrosive reagents, to make access easier for technicians.</txt>
+            <txt>All items are monitored and stored according to recommended conditions, including temperature and humidity, when applicable.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Joel">
+
+        <textos>
+            <txt>Remember: a poorly transported item sinks the credibility of the result</txt>
+            <txt>Sail with caution… the next environment is much drier and more treacherous</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

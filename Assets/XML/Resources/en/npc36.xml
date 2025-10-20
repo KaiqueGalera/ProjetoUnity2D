@@ -1,0 +1,55 @@
+<npc>
+
+    <inicio_dialogo name="Elisa">
+
+        <textos>
+            <txt>Extreme heat... a hostile environment... exactly like an expired or unidentified item</txt>
+            <txt>I am Elisa. And here, only what is controlled survives</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Maria">
+
+        <textos>
+            <txt>This place feels like an incinerator of bad laboratory practices...</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <inicio_dialogo name="Elisa">
+
+        <textos>
+            <txt>Almost that. Here the cycle ends: deteriorated items must be rejected, documented, and properly disposed of</txt>
+            <txt>Let's see if you know what should burn... and what must be preserved</txt>
+        </textos>
+
+    </inicio_dialogo>
+
+    <pergunta_dialogo name="Elisa">
+
+        <textos>
+            <txt>Indicate the alternative that represents a **nonconformity** with the requirements of item 7.4 of ISO/IEC 17025:</txt>
+        </textos>
+
+        <alternativas>
+            <txt>Items that do not meet the defined acceptance criteria are rejected and properly disposed of by the laboratory.</txt>
+            <txt>Items are regularly checked to ensure they are still suitable for their intended use.</txt>
+            <txt>Items showing signs of deterioration are kept in use as long as there is no other available option.</txt>
+            <txt>The laboratory maintains records regarding the disposal and destination of discarded items.</txt>
+            <txt>All items are clearly identified throughout the entire time they are under the laboratory's responsibility.</txt>
+        </alternativas>
+
+    </pergunta_dialogo>
+
+    <fim_dialogo name="Elisa">
+
+        <textos>
+            <txt>Difficult decisions shape reliable professionals</txt>
+            <txt>Now you are ready to face the hottest records of the system</txt>
+            <txt>Or... to melt away in the failures of traceability</txt>
+        </textos>
+
+    </fim_dialogo>
+
+</npc>

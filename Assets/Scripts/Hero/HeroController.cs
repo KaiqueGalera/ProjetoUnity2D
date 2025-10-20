@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class HeroController : MonoBehaviour, IDataPersistence
 {
-
     private GameController      _GameController;
     private Alarmobot           _Alarmobot;
     private LifeController      _LifeController;
@@ -20,6 +19,10 @@ public class HeroController : MonoBehaviour, IDataPersistence
     public  float               heroSpeedX;
     public  float               heroSpeedY;
     public  float               controlHz; // Controle Horizontal (-1/0/1) 
+    public  bool                emGelo;
+    private float suavizacaoVel = 0f;
+    [SerializeField] private float atritoGelo = 0.05f;   // Menor valor = mais escorregadio
+    [SerializeField] private float atritoNormal = 0.1f;  // Controle mais responsivo
 
     [Header("Pulo")]
     public  Transform           groundCheckR;
@@ -29,7 +32,6 @@ public class HeroController : MonoBehaviour, IDataPersistence
     public  float               jumpForce;
     public  bool                isGround;
     
-
     [Header("Controle de vida")]
     public  Color               invencibleColor;
     public  int                 currentHealth;
@@ -192,32 +194,36 @@ public class HeroController : MonoBehaviour, IDataPersistence
         isKnockback = false;
     }
 
-    void HeroMov() // Responsável pela movimentação
+void HeroMov() // Responsável pela movimentação
+{
+    if (isKnockback) return;
+
+    controlHz = Input.GetAxisRaw("Horizontal"); // esq -1 / 0 / dir 1
+    heroSpeedY = heroRB2D.velocity.y;
+
+    float alvoVelX = heroSpeedX * controlHz;
+    float atritoAtual = emGelo ? atritoGelo : atritoNormal;
+
+    // Suaviza o movimento horizontal conforme o tipo de piso
+    float novoVelX = Mathf.SmoothDamp(heroRB2D.velocity.x, alvoVelX, ref suavizacaoVel, atritoAtual);
+    heroRB2D.velocity = new Vector2(novoVelX, heroSpeedY);
+
+    if (controlHz != 0)
     {
-        if (isKnockback) return;
-        
-        controlHz = Input.GetAxisRaw("Horizontal"); // esq -1 / 0 / dir 1
-       
-        heroSpeedY = heroRB2D.velocity.y;
-        heroRB2D.velocity = new Vector2(heroSpeedX * controlHz, heroSpeedY);
-        
-        
-        if (controlHz != 0)
-        {
-            hAxis = controlHz;
-        }
-
-        if (isLookingL == true && controlHz > 0 )
-        {
-            Flip();
-        } 
-        else if (isLookingL == false && controlHz < 0 )
-        {
-            Flip();
-        }
-
-        if (controlHz != 0) {isRunAnimation = true;} else {isRunAnimation = false;} // Controle para animação da corrida
+        hAxis = controlHz;
     }
+
+    if (isLookingL && controlHz > 0)
+    {
+        Flip();
+    }
+    else if (!isLookingL && controlHz < 0)
+    {
+        Flip();
+    }
+
+    isRunAnimation = controlHz != 0; // Define se está correndo ou não
+}
 
     void Flip() // Altera o scale para trocar o lado do personagem
     {
@@ -426,7 +432,9 @@ public class HeroController : MonoBehaviour, IDataPersistence
                 {   
                      transform.parent = col.transform;
                 }
-                
+                break;
+            case "Gelo":
+                emGelo = true;                
                 break;
 
             case "Enemy":
@@ -475,6 +483,9 @@ public class HeroController : MonoBehaviour, IDataPersistence
             case "Platform":
                 transform.parent = null;
             break;
+            case "Gelo":
+                emGelo = false;                
+            break;
         }
         
     }
@@ -490,7 +501,6 @@ public class HeroController : MonoBehaviour, IDataPersistence
             case"FlymachineElectricity":
                 _LifeController.HeroDmgControl(25);
                 break;
-
             case"Colectable":
                 _GameController.AmmManager(1);
                 Destroy(col.gameObject);

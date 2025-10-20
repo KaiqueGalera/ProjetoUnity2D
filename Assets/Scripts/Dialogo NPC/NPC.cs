@@ -20,8 +20,8 @@ public class NPC : MonoBehaviour
     [Header("Avaliação ISO")]
     public string                           question;
     public List<string>                     alternatives;
-    private Dictionary<int, string>         alternativesDictionary = new Dictionary<int, string>();
     public Dictionary<int, string>          AlternativesDictionary => alternativesDictionary;
+    private Dictionary<int, string>         alternativesDictionary = new Dictionary<int, string>();
     private int                             indDic = 0; // Índice específico para cada NPC
     public  bool                            isNPC2Q = false, isNPC3Q = false, isNPC4Q = false, isNPC5Q = false, isNPC6Q = false;
 
@@ -235,6 +235,7 @@ public class NPC : MonoBehaviour
             if (question != null && isQuestioned == false)
             {
                 EventSystem.current.SetSelectedGameObject(_DialogControl.firstAnswer);
+                Debug.Log("Entrou question");
 
                 _GameStateManager.ChangeState(GameState.DialogState); // Muda o estado de jogo para o Dialogo que para o tempo
                 
