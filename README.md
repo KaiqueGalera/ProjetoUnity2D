@@ -45,14 +45,11 @@ Além disso, ao longo das fases, o jogador encontra **NPCs** que:
 
 ## 🚧 Status do Projeto
 
-> 🔨 Em desenvolvimento contínuo. Versão alpha prevista para [colocar previsão aqui, se desejar].
+> 🔨 Em desenvolvimento
 
 ---
 
 ## 📸 Capturas de Tela
-
-*(Em breve)*  
-Você poderá conferir aqui imagens e vídeos da jogabilidade.
 
 ---
 
